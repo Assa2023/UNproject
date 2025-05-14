@@ -1,0 +1,5 @@
+First install nodejs on your computer: https://nodejs.org/en to download. Run it.
+use npm to install the package: type npm -v on the command prompt to verify the version you've installed
+Install Mongodb database from https://www.mongodb.com/
+Sign up or sign in then create a free tier project.
+You will be given a connection string which you should paste in the server envrionment
