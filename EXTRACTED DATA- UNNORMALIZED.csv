@@ -1,0 +1,504 @@
+"id";"project_title";"paas_code";"approval_status_id";"fund";"pag_value";"start_date";"end_date";"org_unit_id";"total_expenditure";"total_contribution";"difference";"total_psc"
+64;"FSGLO10S05:Youth Empowerment for Urban Development";"H139";1;"FNO";4218607.0;"2012-01-01";"2013-12-31";1;4439757.0;4329257.0;-110500.0;316548.0
+65;"FDGLO11F05: Preparations for the 23rd Session of the Governing Council";"A119";1;"FNE";51549.0;"2011-01-01";"2011-12-31";2;51549.0;0.0;-51549.0;0.0
+66;"FSGLO11S01: Sixth Session of the World Urban Forum (WUF 6)";"A120";1;"FOD";1638861.0;"2011-05-01";"2016-12-31";2;1473135.0;1376602.0;-96533.0;10534.0
+67;"FSGLO11H01: Norway funded JPO - Jacob Krupka based in UN-Habitat New York Office";"B112";1;"FJO";211104.0;"2011-02-01";"2012-12-31";3;160859.0;286723.0;125864.0;14768.0
+68;"XBSOM11X01: UN Joint Programme on Local Governance and Decentralised Service Delivery";"C293";1;"QXB";563111.0;"2011-01-25";"2016-05-31";4;562712.0;563111.0;399.0;36813.0
+69;"XBSOM11X02: UN Joint Programme on Local Governance and Decentralised Service Delivery";"C294";1;"QXB";1862288.0;"2011-01-01";"2016-05-31";4;1864829.0;1861133.0;-3696.0;121787.0
+70;"QXBSOM11X03: Tawakal IDP Community Shelter Planning and Basic Sanitary Facilitie";"C295";1;"QXB";1500000.0;"2011-02-01";"2012-12-31";4;1500024.0;1500000.0;-24.0;98132.0
+71;"XBSEN11X01: Support Sustainable Shelter for Disaster-Prone Population in St. Louis, Senegal";"C296";1;"QXB";2000000.0;"2011-03-01";"2016-05-31";4;1999313.0;2000000.0;687.0;130155.0
+72;"XBLIR11X01: Support to the Liberian Land Commission";"C299";1;"QXB";2166471.0;"2011-01-01";"2016-05-31";4;2254119.0;2250750.0;-3369.0;157336.0
+73;"FSRAF11S02: SUPPORT TO THE AFRICAN MINISTERIAL CONFERENCE ON HOUSING AND URBAN DEVELOPMENT (AMCHUD) SECRETARIAT";"C300";1;"QXB";540000.0;"2011-04-08";"2017-12-31";4;581863.0;657018.0;75156.0;67880.0
+74;"XBRAF11X02: City to City Cooperation between UN-Habitat, Kunshan and selected Af";"C301";1;"QXB";256000.0;"2011-05-01";"2016-10-31";4;239457.0;256000.0;16543.0;27557.0
+75;"XBZAI11X01: Housing, Land and Property Interventions in Eastern DRC to facilitate Return of IDPs and Refugees in North Kivu and in Ituri";"C302";1;"QXB";7281240.0;"2011-01-01";"2016-12-31";4;7282358.0;7281235.0;-1123.0;476300.0
+76;"XBAFG11X01: Peace-Building in Afghanistan through Consolidation of Community Sol";"D313";1;"QXB";28500000.0;"2011-01-01";"2016-05-31";5;28498031.0;28500000.0;1969.0;1863544.0
+77;"XBSRL10X03: SUPPORT TO CONFLICT AFFECTED PEOPLE THROUGH HOUSING (EU)";"D314";2;"QXB";15876363.0;"2011-01-01";"2014-03-31";5;14877569.0;15208562.0;330993.0;971843.0
+78;"XBPAK11X01: Pakistan Settlements Flood Recovery";"D315";2;"QXB";44629670.0;"2011-01-01";"2015-03-31";5;44598884.0;44629670.0;30786.0;2918646.0
+79;"XBPAK11X03: Improvement of 29 School Buildings in Khyber Pakhtunkhwa";"D318";2;"QXB";137715.0;"2011-01-17";"2011-12-31";6;118234.0;137715.0;19481.0;7735.0
+80;"XBRAS11X01: UN-HABITAT Support to Asia Development Bank (ADB) City Development Initiative for Asian Cities";"D319";2;"QXB";450000.0;"2011-01-12";"2012-12-31";5;450000.0;466896.0;16896.0;0.0
+81;"XBMYA11X01: Safe and Sustainable Access to WASH for Rural Communities";"D320";2;"QXB";554330.0;"2011-01-01";"2011-06-30";5;554330.0;554330.0;0.0;36265.0
+82;"FSRAS11S01: Rehabilitation and Reconstruction Facility Phase V";"D321";2;"QXB";47300.0;"2011-01-01";"2011-12-31";6;47300.0;47300.0;0.0;5442.0
+83;"FDRAS11S02: Enhancement of Technical Cooperation towards Environmentaly Sustainability";"D322";2;"FJP";91890.0;"2011-04-01";"2012-12-31";5;91890.0;91890.0;0.0;10571.0
+84;"XBCPR11X01: Low Carbon Economy and Sustainable Urban Development Pilot Project - Jiangyin Non-Development Zone Practice";"D323";2;"QXB";120979.0;"2011-01-01";"2014-01-31";5;119806.0;120979.0;1173.0;10891.0
+85;"XBMYA11X02: Emergency Shelter Support for Homeless and Vulnerable Populations in";"D324";2;"QXB";499904.0;"2011-03-15";"2011-12-31";6;499904.0;499904.0;0.0;32704.0
+86;"XBPAK11X02: Geographic Information System (GIS) Capacity Building for National Population Census";"D325";2;"QXB";2465948.0;"2011-02-01";"2013-12-31";5;2514271.0;2523897.0;9626.0;164485.0
+87;"XBMYA11X03: Rakhine Settlement Support Project (RSSP)";"D326";2;"QXB";1046051.0;"2011-04-18";"2012-04-17";5;1016703.0;1044007.0;27304.0;68293.0
+88;"SRL11X01: Support to Conflict Affected People Through Housing (AusAid)";"D327";2;"QXB";3500000.0;"2011-04-01";"2012-03-31";5;3628040.0;3619643.0;-8397.0;236800.0
+89;"XBHAI11X03: Gestation des debris dans les quartiers precaires de Port-au-Prince";"F098";2;"QXB";1598326.0;"2011-01-01";"2016-05-31";7;1142822.0;1598326.0;455504.0;74591.0
+90;"XBHAI11X01: Coordination of the Haiti Shelter Cluster by UN-Habitat";"F099";2;"QXB";463743.0;"2011-01-01";"2016-05-31";7;568695.0;566826.0;-1869.0;38921.0
+91;"XBHAI11X02: UN-HABITAT Emergency and Recovery Response to Haiti Earthquake: Community-based response to Cholera";"F100";2;"QXB";261262.0;"2011-01-01";"2011-12-31";7;254279.0;261292.0;7013.0;16635.0
+92;"FDGLO11F02: Slum Upgrading and Prevention and Sustainable Housing Solutions thro";"G061";2;"FNE";40000.0;"2011-01-01";"2011-12-31";6;0.0;0.0;0.0;0.0
+93;"Development of the Initial Design of a Pro-poor Land Recordation System";"G063";2;"FNE";28833.0;"2011-02-01";"2011-12-31";6;28833.0;0.0;-28833.0;0.0
+94;"FDGLO11F07: Support to the Head, Shelter Branch Office";"G064";2;"FNE";26475.0;"2011-04-01";"2011-12-31";6;0.0;0.0;0.0;0.0
+95;"FSUGA11S01: Empowerment of Vulnerable Urban Youth for Socio-Economic Inclusion a";"H141";2;"FOD";413742.0;"2011-03-01";"2016-08-31";1;494207.0;516928.0;22721.0;29568.0
+96;"FDGLOF60/SIDA: Quick Guide for Policy makers and Practitioners on Urban Planning";"J081";1;"FOD";100000.0;"2012-01-01";"2016-05-31";8;99606.0;0.0;-99606.0;11459.0
+97;"FSKEN10S01: Proposal for continuation of the implementation of Phase II of the Urban Planning Programme in the Lake Victoria Region through MTSIP";"J082";1;"FOD";13459.0;"2011-01-01";"2016-05-31";4;12514.0;13459.0;945.0;1270.0
+98;"FSGLO10S15: URBAN SAFETY AND SOCIAL COHESION AGENDA FOR SUSTAINABLE DEVELOPMENT, GOVERNANCE AND COMPETITIVENESS IN WORLD CITIES";"J083";1;"FFR";497111.0;"2011-09-01";"2016-12-31";9;1037962.0;1022226.0;-15737.0;87983.0
+99;"FDGLO11F06: Urban Biodiversity, Wetlands and Ecosystem-based Adaptation in Citie";"J084";1;"FNE";50000.0;"2011-01-01";"2011-12-31";8;0.0;0.0;0.0;0.0
+100;"FSRAF11S03: TRANSITION PLANNING FOR URBAN FINANCE ACTIVITIES";"S006";1;"-";0.0;"2011-04-13";"2011-12-31";6;0.0;73000.0;73000.0;0.0
+101;"FDM0111NOR/MTSIP-NORWAY: Organisational Review";"T058";1;"FNE";101074.0;"2011-01-01";"2012-12-31";9;101074.0;0.0;-101074.0;0.0
+102;"FDM0111SWE/MTSIP-SIDA: Organisational Review";"T059";1;"FNE";119851.0;"2011-01-01";"2012-12-31";9;119988.0;0.0;-119988.0;0.0
+103;"FDM0211SWE/MTSIP-SIDA: Review of UN-Habitat's participation in the Delivering as";"T060";1;"FNE";48793.0;"2011-01-01";"2012-12-31";10;48714.0;0.0;-48714.0;0.0
+104;"FDM0211NOR/MTSIP-NORWAY: Continued Implementation of MTSIP Focus Area 6";"T061";1;"FNE";161719.0;"2011-01-01";"2012-12-31";10;161719.0;0.0;-161719.0;0.0
+105;"FDM0311SWE/MTSIP-SIDA: Development of Knowledge Management Systems";"T062";1;"FNE";460673.0;"2011-01-01";"2013-12-31";10;461840.0;0.0;-461840.0;0.0
+106;"FDM0111FNE-MTSIP: Promoting Normative and Operational Development of Sustainable";"T064";1;"FNE";100000.0;"2011-01-01";"2011-12-31";1;10212.0;0.0;-10212.0;0.0
+107;"FDWAT11INT: WATER AND SANITATION TRUST FUND (INTEREST ALLOCATION)";"W039";1;"FWS";2500000.0;"2011-01-01";"2019-12-31";11;2627308.0;-25507.0;-2652816.0;0.0
+108;"WATER AND SANITATION TRUST FUND - BASF Social Foundation Contribution for WATSAN education in Mangalore, India.";"W040";1;"FWS";195659.0;"2011-01-01";"2014-12-31";11;159406.0;195659.0;36252.0;11121.0
+109;"WATER AND SANITATION TRUST FUND - Water and Environmental Sanitation improvement in Coastal Communities in Karachi, Pakistan (Coke Foundation Contribution)";"W041";1;"FWS";97500.0;"2011-01-01";"2012-12-31";11;83609.0;97500.0;13891.0;3981.0
+110;"WATER AND SANITATION TRUST FUND (Fukuoka Habitat Institute Contribution)- LAO PDR (MEKWASAN)";"W042";1;"FWS";60000.0;"2011-01-01";"2012-12-31";11;60000.0;60000.0;0.0;6903.0
+111;"Water and Sanitation Trust Fund (ACCD: Catalan Agency for Development Coop)";"W043";1;"FWS";134810.0;"2011-11-27";"2012-12-31";11;159217.0;134810.0;-24407.0;8819.0
+112;"Water and Sanitation Trust fund (Coca Cola India Contribution)";"W044";1;"FWS";299895.0;"2011-01-01";"2016-05-31";11;299895.0;299895.0;0.0;34501.0
+113;"XBPAK11X04: GIS AUTOMATION AND CAPACITY BUILDING SUPPORT FOR CENSUS";"D328";1;"QXB";450000.0;"2011-06-01";"2013-12-31";5;449664.0;450000.0;335.0;29417.0
+114;"FSGLO11S02: HUMAN SETTLEMENTS AND CRISIS PROGRAMME";"K091";1;"FOD";206000.0;"2011-04-01";"2016-08-31";12;270671.0;216071.0;-54600.0;22560.0
+115;"RAS11TOH: Strengthening administrative and financial support services of ROAP";"TOH1";1;"-";0.0;"2011-01-01";"2012-12-31";5;538160.0;0.0;-538160.0;0.0
+116;"Promoting Sustainable Transport Solutions for East African Cities";"W045";1;"FEV";2850000.0;"2011-01-01";"2017-12-31";11;2742001.0;2779728.0;37726.0;131111.0
+117;"FSINS11S01: Making Urban Investment Planning Work: Building on the Indonesian CDS Experience";"D329";1;"FCL";488200.0;"2011-04-01";"2015-06-30";5;485765.0;488200.0;2435.0;0.0
+118;"XBCUB11X01: Cuba-Colombia South-South Cooperation: Improving citizen capacities in their participation in climate change adoption processes and risk reduction in Columbia and Cuba";"F102";1;"QXB";294607.0;"2011-06-01";"2013-12-31";7;292774.0;294607.0;1833.0;21606.0
+119;"Water and Sanitation Trust Fund (UNOPS Contribution to World Water Day 2011)";"W046";1;"FWS";124500.0;"2011-01-01";"2018-12-31";11;114498.0;99500.0;-14998.0;3238.0
+120;"Water and Sanitation Trust Fund (UNEP Contribution to World Water Day 2011)";"W047";1;"FWS";20000.0;"2011-01-01";"2011-12-31";11;20000.0;20000.0;0.0;1818.0
+121;"FOSTERING AN INTEGRATED AND INCLUSIVE DEVELOPMENT OF RIO DE JANEIRO’S FAVELAS - THE RIO+SOCIAL PROGRAMME";"F101";1;"QXB";9371440.0;"2011-06-01";"2018-03-09";7;9398745.0;9297299.0;-101445.0;448131.0
+122;"XBMAG11X01: Human Security project for the prevention of violence and vulnerability reduction for the most vulnerable inhabitants of Antananarivo, Madagascar";"C303";1;"QXB";1251150.0;"2011-05-01";"2016-10-31";4;1286038.0;1283151.0;-2887.0;84133.0
+123;"FSEGY11S01: Establishment of the Regional Office for the Arab States in Cairo";"C304";1;"FOD";2570000.0;"2011-06-01";"2021-08-07";13;2457748.0;3768021.0;1310273.0;277768.0
+124;"""XBSOM11X05: Halabokad Permanent Shelter and Social Infra-structure""";"C305";1;"QXB";169908.0;"2011-02-02";"2016-05-31";4;169905.0;169908.0;3.0;11115.0
+125;"FSMLW11S01: Malawi City Development Strategy and Slum Upgrading Programme Phase";"C306";1;"FCL";400000.0;"2011-09-01";"2013-12-31";4;175000.0;175000.0;0.0;0.0
+126;"XBSOM11X06: Sustainable Employment Creation and Improved Livelihoods for Vulnerable Urban Communities in Mogadishu.";"C307";1;"QXB";4580815.0;"2011-10-01";"2016-12-31";4;4577286.0;4580815.0;3529.0;299494.0
+127;"Institutional Capacity Development in Darfur on Urban and Regional Planning and Land Management";"C308";1;"QXB";2128315.0;"2011-11-01";"2016-10-31";13;2127890.0;2129517.0;1627.0;138084.0
+128;"XBMYA11X04: Post-Cyclone Giri Community-Based Emergency and Early Recovery Initiative";"D330";1;"QXB";968502.0;"2011-07-01";"2012-06-30";5;931060.0;930632.0;-428.0;60766.0
+129;"XBPAK11X05: Toward Refugee-Host Fusion Local Government";"D331";1;"QXB";198083.0;"2011-09-01";"2016-07-31";5;198083.0;187959.0;-10125.0;12959.0
+130;"XBPAK11X07: Life-saving WASH intervention for Flood Affected Population in Mirpu";"D332";1;"QXB";697779.0;"2011-10-05";"2012-01-04";5;676553.0;697779.0;21226.0;44260.0
+131;"XBPAK11X06: Emergency shelter support to the most vulnerable population in Sindh";"D333";1;"QXB";1498942.0;"2011-10-05";"2012-04-04";5;1470035.0;1498942.0;28907.0;96171.0
+132;"XBRAS11X02: Standardised tools and methodologies for safer schools and hospitals";"D334";1;"QXB";80000.0;"2011-10-26";"2012-03-30";5;80000.0;80000.0;0.0;5234.0
+133;"XBKOS11X01: Municipal Spatial Planning Support Project Phase 3";"E034";1;"QXB";5579542.0;"2011-11-01";"2017-06-30";8;5652069.0;5703063.0;50993.0;242457.0
+134;"DEBRIS MANAGEMENT IN SUPPORT TO THE RETURN HOME OF POPULATIONS AFFECTED BY THE EARTHQUAKE IN PORT-AU-PRINCE";"F103";1;"QXB";2643170.0;"2011-06-01";"2016-05-31";7;2634832.0;2611500.0;-23332.0;173636.0
+135;"XBRLA11X01: SUPPORTING THE EASTERN CARIBBEAN STATES TO IMPROVE LAND POLICIES AND MANAGEMENT";"F104";1;"QXB";1100000.0;"2011-07-01";"2016-08-31";7;1075321.0;1086014.0;10693.0;97756.0
+136;"XBHAI11X05: UNDG-HRF (Haiti Reconstruction fund) Programme d'appui a la reconst";"F105";1;"QXB";10266140.0;"2011-07-01";"2016-11-15";7;10718867.0;10407224.0;-311643.0;698815.0
+137;"XBHAI11X06: Support Programme for the Neighbourhoods Reconstruction and Planning";"F106";1;"QXB";2662194.0;"2011-08-01";"2017-12-31";7;2415238.0;2417823.0;2585.0;158006.0
+138;"FSGLO11S04: Global exposure Database for Global Earthquake Model (GED4GEM)";"H142";1;"FOD";180900.0;"2011-09-01";"2016-05-31";12;206687.0;209786.0;3099.0;14520.0
+139;"XBIRQ11X01: Bridging for Local Area Development Programme (Phase II of Project N048)";"N052";1;"QXB";552889.0;"2011-01-01";"2016-05-31";13;547508.0;0.0;-547508.0;35611.0
+140;"XBIRQ11X02: Initiating durable shelter solutions for Iraqi IDPs and returnees";"N053";1;"QXB";5499833.0;"2011-11-01";"2018-01-14";13;7136338.0;8999833.0;1863495.0;520108.0
+141;"FDM0511SWE/MTSIP-SIDA: Development of Project Accrual and Accountability System (PAAS)";"T065";1;"FNE";592000.0;"2011-09-26";"2013-12-31";10;481167.0;0.0;-481167.0;0.0
+142;"FDM0611SWE/MTSIP-SIDA: PSD Document Tracking System";"T066";1;"FNE";15000.0;"2011-10-18";"2012-12-31";10;15060.0;0.0;-15060.0;0.0
+143;"FDM0711SWE/MTSIP-SIDA: Strengthening Results-Based Management in UN-Habitat";"T067";1;"FNE";163000.0;"2011-11-01";"2012-12-31";10;163048.0;0.0;-163048.0;0.0
+144;"Water and Sanitation Trust Fund (AGENCE FRANCAISE DE DEVELOPPEMENT)";"W048";1;"FWS";751071.0;"2011-01-01";"2017-05-26";11;653257.0;653258.0;0.0;75154.0
+145;"Water and Sanitation Trust Fund: BASF - HVBWSHE INITIATIVE IN SELECTED SCHOOLS OF THE STATE";"W049";1;"FWS";274843.0;"2011-08-04";"2016-05-31";11;256506.0;262876.0;6369.0;17896.0
+146;"WATER AND SANITATION TRUST FUND (Trust Fund interest income for FNE projects)";"W050";1;"FWS";333000.0;"2011-01-01";"2016-06-30";11;287783.0;0.0;-287783.0;0.0
+147;"Promoting Energy Efficiency in Buildings in East Africa (PrEEBEA)";"W051";1;"FEV";2793000.0;"2011-08-15";"2017-12-31";11;2772432.0;2428323.0;-344109.0;128650.0
+148;"Water and Sanitation Trust Fund - Contribution from Tillvaxtverket ( Swedish Agency for Economic and Regional Growth)";"W052";1;"FWS";74347.0;"2011-06-01";"2012-12-31";11;61456.0;62244.0;788.0;4020.0
+149;"WATER AND SANITATION TRUST FUND (JAPAN WATER FORUM)";"W053";1;"FWS";18800.0;"2011-11-30";"2012-12-31";11;18800.0;18800.0;0.0;0.0
+150;"Identification of best practices, policies and enabling legislation in the local delivery of basic urban services";"A121";1;"QXB";3404000.0;"2011-11-01";"2016-05-31";14;3394732.0;3404000.0;9268.0;306921.0
+151;"Monitoring the MDGs at the municipal level in the states of Rio de Janeiro and Maranhao and strengthening Local capacities on public policies";"F107";1;"QXB";532867.0;"2011-12-01";"2016-10-30";7;616756.0;611183.0;-5574.0;70779.0
+152;"UNDAP - WASH programme Tanzania";"W054";1;"FWS";1591526.0;"2011-09-01";"2017-08-31";11;1575535.0;1575535.0;0.0;103072.0
+153;"Urban Planning Support Programme for Palestinian Communities in East Jerusalem";"P013";1;"FPP";2969253.0;"2011-09-01";"2016-10-30";13;3976901.0;4480272.0;503371.0;233454.0
+154;"Strengthening Primary Health Care System in 3 States of Darfur";"C309";2;"QXB";1356589.0;"2011-12-01";"2016-10-30";4;1355682.0;1354963.0;-720.0;88642.0
+155;"Disaster Resilient City Development Strategies for Sri Lankan Cities";"D335";2;"QXB";1100000.0;"2011-12-01";"2014-12-31";5;2033991.0;2109760.0;75769.0;135086.0
+156;"Implementation of the RAIN Water for Schools Project in East Africa (Global Environment & Technology Foundation Conttibution-GETF)";"W055";2;"FWS";225000.0;"2011-08-11";"2013-12-31";11;225092.0;225000.0;-92.0;25913.0
+157;"WATSAN Trust Fund: GOAL WASH Programme, LAO PDR < UNDP Contribution>";"W056";2;"FWS";149533.0;"2011-10-01";"2016-05-31";11;216717.0;216822.0;105.0;14080.0
+158;"Housing Policy Advice Ministry of Public works and Housing Occupied Palestinian Territory";"P014";2;"FPP";175000.0;"2011-11-01";"2013-09-30";13;173392.0;174890.0;1498.0;10551.0
+159;"Land and Natural Resources Tenure Security Learning Initiative for Eastern and Southern Africa < TSLI - ESA>";"G065";2;"FOD";225000.0;"2011-10-01";"2013-12-31";4;200129.0;200000.0;-129.0;19687.0
+160;"Urban Income Inequalities in Latin American and Caribbean Cities";"H143";2;"FOD";300000.0;"2012-01-15";"2016-05-31";15;287778.0;310000.0;22222.0;33107.0
+161;"Establishment of the Advisory Group on Gender Issues for UN-Habitat";"J085";2;"FNO";120000.0;"2012-01-01";"2016-06-30";9;81152.0;0.0;-81152.0;0.0
+162;"Colombo City-Livelihood assessment of flood-prone Low-income Settlements and preparation of urban policy note";"D336";2;"QXB";58468.0;"2012-01-01";"2012-06-30";5;51379.0;58467.0;7088.0;0.0
+163;"Support to the establishment of a land disputes prevention and resolution system in";"C312";2;"QXB";2000000.0;"2011-08-01";"2016-05-31";4;1963151.0;2000000.0;36849.0;127066.0
+164;"UN-Habitat Office in Spain: Towards a New Urban Agenda";"J094";2;"FSP";787783.0;"2012-01-01";"2018-03-14";8;2815995.0;2371918.0;-444077.0;254598.0
+165;"Cost Center - Regional office for Africa";"V007";2;"TOH";67864.0;"2012-01-01";"2018-12-31";4;189974.0;24309890.0;24119916.0;0.0
+166;"Cost Center - Regional office for Arab states";"V008";2;"TOH";104544.0;"2012-01-01";"2018-12-31";13;255416.0;24309890.0;24054474.0;0.0
+167;"Cost Center - Regional office for Asia and the Pacific";"V009";2;"TOH";338631.0;"2012-01-01";"2018-12-31";5;1231204.0;24309890.0;23078686.0;0.0
+168;"Cost Center - Regional office for Latin America and the carribean";"V010";2;"TOH";109589.0;"2012-01-01";"2018-12-31";7;284613.0;24309890.0;24025277.0;0.0
+169;"Cost centre - New York/ Liaison Office";"V002";2;"HFU";87690.0;"2012-01-01";"2018-12-31";10;113870.0;24309890.0;24196020.0;0.0
+170;"Cost Centre - Geneva Liaison Office";"V003";2;"HFU";199046.0;"2012-01-01";"2018-12-31";10;305834.0;24309890.0;24004057.0;0.0
+171;"Cost Centre - Brussels Liaison Office";"V004";2;"HFU";134110.0;"2012-01-01";"2018-12-31";10;262378.0;24309890.0;24047512.0;0.0
+172;"Settlement upgrading and reintegration of Returnees and IDPs through community empowerment, infrastructure and services and local government support";"D337";2;"QXB";11640422.0;"2012-03-01";"2015-02-28";5;11640422.0;11606964.0;-33458.0;761523.0
+173;"Support to the formulation of a project document on Housing and Urban Development Policy in Gabon < Atlas # 00062438>";"C313";2;"TIP";34000.0;"2011-01-01";"2016-05-31";4;93999.0;0.0;-93999.0;8545.0
+174;"Rehabilitation and Reconstruction facility Phase VI";"D338";2;"FJP";47300.0;"2012-01-01";"2013-03-31";5;47058.0;47300.0;242.0;5200.0
+175;"Enhancement of Technical Cooperation towards Environmentally Sustainable Development in Asia and the pacific Phase IV";"D339";2;"FJP";77872.0;"2012-04-01";"2013-12-31";5;77769.0;77872.0;103.0;8856.0
+176;"Emergency workshop for the Municipalities of Disaster affected Areas in Tohoku, Japan";"D340";2;"QXB";230934.0;"2012-02-01";"2012-12-31";5;230934.0;229725.0;-1209.0;15108.0
+177;"WLATs and Mavoko SNP Land Development";"C315";2;"FNE";300338.0;"2012-01-01";"2012-12-31";4;200783.0;0.0;-200783.0;0.0
+178;"WLATs and Mavoko SNP Land Development";"A039_D";2;"QXB";296662.0;"2011-03-01";"2012-12-31";4;397443.0;0.0;-397443.0;0.0
+179;"Support to the Province of Gangwon's International Urban Training Centre ( IUTC)";"L013";2;"FOD";2430850.0;"2012-01-01";"2017-12-31";15;1179727.0;1200000.0;20273.0;104412.0
+180;"State of the region's Cities Reports Series 2012-2014";"C316";2;"FNO";736560.0;"2012-03-12";"2017-12-31";9;1110553.0;1129657.0;19105.0;78047.0
+181;"Integration of long-term IDPs into the host community in Bosasso";"C317";2;"QXB";2000000.0;"2012-03-01";"2016-05-31";4;1999803.0;2000000.0;197.0;130828.0
+182;"AYAHA III Shelter and Settlement Construction";"C318";2;"QXB";2212711.0;"2012-03-01";"2016-12-31";4;2344425.0;2212711.0;-131714.0;145067.0
+183;"Participatory Slum Upgrading Programme in ACP Countries";"C319";2;"QXB";12965400.0;"2012-01-01";"2017-12-31";16;12598528.0;12531273.0;-67255.0;679147.0
+184;"African Cities Roundtable in Nairobi Global City Indicators";"H149";2;"FOD";96970.0;"2012-01-01";"2013-12-31";15;83171.0;96970.0;13799.0;9568.0
+185;"Youth Empowerment for Urban Development < including youth mainstreaming>";"H146";2;"FNO";5929699.0;"2012-01-01";"2017-12-31";1;5945840.0;6130321.0;184481.0;435351.0
+186;"Urban Solidarity Programme";"D341";2;"QXB";5000000.0;"2012-03-01";"2013-12-31";5;4999757.0;5000000.0;243.0;327073.0
+187;"Emergency Water, Sanitation, Hygiene and Shelter Assistance to communities affected by flooding caused by Tropical Storm Nock-Ten in Lao PDR";"W060";2;"FOD";129000.0;"2012-02-01";"2013-12-31";11;129000.0;130392.0;1392.0;8439.0
+188;"Support to Sustainable reintegration of returnees in South Sudan";"I001";2;"QXB";100000.0;"2012-04-01";"2012-12-31";12;0.0;0.0;0.0;0.0
+189;"Joint Programme - Support to Decentralization & Integrated Local Development";"C321";1;"QXB";132801.0;"2011-11-01";"2016-09-30";4;691593.0;799722.0;108128.0;8697.0
+190;"Promoting Low Emission Urban Development Strategies in Emerging Economy Countries";"J088";1;"FOD";8931233.0;"2012-03-01";"2016-12-31";8;8927729.0;8343649.0;-584080.0;584057.0
+191;"Towards Sustainable Solutions for Improved Living Conditions of Palestine Refugees in Lebanon";"C320";1;"QXB";3562337.0;"2011-11-01";"2014-10-31";13;937313.0;953404.0;16091.0;63076.0
+192;"Global Land Tool Network Phase 2 (Norway Contribution)";"G066";1;"FNO";2389078.0;"2012-01-01";"2017-12-31";14;3882548.0;4249408.0;366860.0;281214.0
+193;"State of the World Cities Report 2012/13";"H148";1;"FNO";451352.0;"2012-01-01";"2014-12-31";15;432301.0;841491.0;409190.0;32022.0
+194;"Urban Poverty Reduction in Mexico 2011-2013";"F108";1;"QXB";450600.0;"2011-09-01";"2017-09-30";7;756389.0;675323.0;-81067.0;53369.0
+195;"Identification of best practises, policies and enabling legislation in the local delivery of basic urban services";"A121_A";1;"QXB";1912595.0;"2011-11-01";"2013-12-31";17;1326532.0;3404000.0;2077468.0;126851.0
+196;"Identification of best practises, policies and enabling legislation in the local delivery of basic urban services";"A121_B";1;"QXB";235180.0;"2011-11-01";"2013-12-31";14;209826.0;0.0;-209826.0;19374.0
+197;"Identification of best practises, policies and enabling legislation in the local delivery of basic urban services";"A121_C";1;"QXB";1256255.0;"2011-11-01";"2013-12-31";14;1800183.0;0.0;-1800183.0;160883.0
+198;"Assistance to schools in Voronezh region communities affected by 2010 forest fires";"E035";1;"QXB";130600.0;"2012-02-01";"2016-05-31";9;128165.0;133765.0;5599.0;11593.0
+199;"Open UN-Habitat Transparency Initiative";"T068";1;"FNE";581395.0;"2012-01-01";"2016-05-31";2;743301.0;706621.0;-36680.0;0.0
+200;"Global Land Tool Network Phase II (Sweden Contribution)";"G068";1;"FSE";1710757.0;"2012-01-01";"2016-10-31";14;2598063.0;2295824.0;-302239.0;174149.0
+201;"Sustainable Urban Planning and Development Programme in Mozambique";"C310";1;"QXB";200000.0;"2012-01-01";"2016-05-31";4;209014.0;200000.0;-9014.0;24042.0
+202;"Priority Action for Life-Saving response through Integrated Nutrition, WASH and Health Interventions - Nepal 2012";"D343";1;"QXB";211244.0;"2012-05-01";"2012-12-31";5;211244.0;211244.0;0.0;13820.0
+203;"Impact of Economic Development on Urbanization Process in Brazil";"F109";1;"FOD";291496.0;"2012-05-01";"2016-09-30";7;271507.0;291496.0;19989.0;17516.0
+204;"Urban Mobility";"W059";1;"FNO";965148.0;"2012-01-01";"2017-12-31";11;1159537.0;1138857.0;-20679.0;84176.0
+205;"Human Settlements and Crisis Programme";"K091_B";1;"FSE";156000.0;"2011-06-07";"2012-12-31";12;0.0;0.0;0.0;0.0
+206;"Human Settlements and Crisis Programme";"K091_A";1;"FOD";50000.0;"2011-06-07";"2012-12-31";12;0.0;0.0;0.0;0.0
+207;"Formulation of the Burkina Faso Country Programme";"C323";1;"FCL";75000.0;"2012-05-01";"2013-12-31";4;75001.0;75000.0;-1.0;0.0
+208;"Urban Planning and Design for Sustainable Urban Development";"J089";1;"FSE";1047732.0;"2012-01-01";"2016-10-30";8;1599373.0;1255080.0;-344292.0;105479.0
+209;"Improving Living Conditions in Returnee Areas of Sri Lanka Through Housing";"D344";1;"QXB";3860811.0;"2012-06-01";"2015-06-30";5;3859257.0;3860811.0;1554.0;252451.0
+210;"Community Benefit Sharing: Assessment of Options";"D345";1;"QXB";99999.0;"2012-04-01";"2013-12-31";5;99999.0;99816.0;-183.0;6542.0
+211;"Urban Income Inequalities in Latin American and Caribbean Cities";"H143_A";1;"FOD";213555.0;"2012-01-15";"2013-12-31";15;191871.0;310000.0;118129.0;22074.0
+212;"Urban Income Inequalities in Latin American and Caribbean Cities";"H143_B";1;"FOD";86445.0;"2012-01-15";"2013-12-31";15;85907.0;0.0;-85907.0;11034.0
+213;"Development of the Ibadan Abidjan urban Energy Corridor for Sustainable Urbanisation and Economic Growth";"I004";1;"QXB";50000.0;"2012-06-01";"2012-12-31";11;0.0;0.0;0.0;0.0
+214;"Improving the Housing delivery System in Erbil";"N047";1;"QXB";842800.0;"2012-05-30";"2013-09-30";13;1105132.0;1089007.0;-16125.0;72298.0
+215;"Slum Upgrading and Sustainable Housing Development in two Settlements, in South and West Darfur - Sudan";"C322";1;"QXB";904020.0;"2012-03-30";"2012-12-31";13;903977.0;904220.0;243.0;59139.0
+216;"Shae Thot - The Way Forward: Water and Sanitation Project in Myanmar";"D346";1;"QXB";13016065.0;"2012-01-01";"2017-12-31";5;12841977.0;13016105.0;174127.0;839917.0
+217;"Improving Urban Legal Frameworks for the extension and Densification of cities";"G067";1;"FNO";971966.0;"2012-01-01";"2014-12-31";14;965145.0;1417564.0;452418.0;71492.0
+218;"Improving Urban Legal Frameworks for the extension and Densification of cities";"G070";1;"FSE";914470.0;"2012-01-01";"2017-03-31";14;1349614.0;1487192.0;137578.0;90767.0
+219;"Local Governance Catalytic Project";"J092";1;"FSE";250063.0;"2012-01-01";"2017-12-31";14;767205.0;941776.0;174571.0;47394.0
+220;"Promoting Sustainable Urban Mobility Solutions for West Africa";"I002";1;"QXB";100000.0;"2012-06-01";"2012-12-31";4;0.0;0.0;0.0;0.0
+221;"City Resilience Profiling Programme (CRPP)";"I003";1;"QXB";70000.0;"2012-06-01";"2016-12-31";12;30017.0;0.0;-30017.0;0.0
+222;"ARCADIS-ROAP Humanitarian Support";"D342";1;"QXB";30585.0;"2012-05-11";"2013-12-31";5;30585.0;30299.0;-286.0;0.0
+223;"Promotion of Pro-poor Land and Housing: Sustainable Housing, Slum Upgrading and Community Development";"G069";1;"FSE";796644.0;"2012-01-01";"2016-12-31";16;1456589.0;1458010.0;1421.0;79613.0
+224;"IDP Settlement mapping, planning and physical improvement of IDP settlement areas in Mogadishu, Somalia";"C324";1;"QXB";405672.0;"2012-06-01";"2016-08-31";4;405672.0;405672.0;0.0;26539.0
+225;"FDM0411SWE/MTSIP-SIDA: Medium Term Strategic and Institutional Plan (MTSIP) Focus Area 2";"T063_A";1;"FNE";67688.0;"2011-01-01";"2012-12-31";8;67706.0;0.0;-67706.0;0.0
+226;"Institutionalization of Results-Based Management in UN-Habitat";"T073";1;"FNE";158285.0;"2012-01-01";"2014-12-31";10;156830.0;78583.0;-78247.0;0.0
+227;"Institutionalization of Results-Based Management in UN-Habitat";"T071";1;"FNE";279573.0;"2012-01-01";"2015-12-31";10;360841.0;372402.0;11561.0;0.0
+228;"Urban Planning and Design for Sustainable Urban Development";"J087";1;"FNO";971966.0;"2012-01-01";"2016-12-31";8;1152191.0;1207513.0;55323.0;81318.0
+229;"Water and Sanitation Trust Fund Implementation of Training and Capacity Building Activities Under the Lake Victoria Water Supply and Sanitation Programme Phase II";"W057";1;"FWS";4244445.0;"2011-12-08";"2016-12-31";11;4212192.0;4213915.0;1724.0;275564.0
+230;"Building statistical capacity to monitor the Millennium Development Goal Slum Target in the context of natural disasters and housing crisis in Africa, Asia and Latin America and the Caribbean";"P-12-07-12-99";2;"ROA";440000.0;"2011-01-01";"2013-12-31";15;0.0;0.0;0.0;0.0
+231;"Water and Sanitation Trust Fund - Norway 2012-2013 contribution";"W058";1;"FWS";2429915.0;"2012-01-01";"2016-05-31";11;2412095.0;2412930.0;835.0;178877.0
+232;"WATSAN Trust Fund - Bill & Melinda Gates Foundation Contribution ( UN-Habitat Vacutug Development Project )";"W061";1;"FWS";249700.0;"2012-02-20";"2013-12-31";11;169408.0;174783.0;5375.0;15401.0
+233;"Strengthening Urban Education, Research and University-City linkages through the Habitat Partner University Initiative";"H150_A";1;"FNE";361111.0;"2012-01-01";"2014-12-31";15;313143.0;191666.0;-121477.0;3847.0
+234;"Srengthening Urban Education, Research and University-city linkages through the habitat Partner University Initiative";"H150_B";1;"FSE";250063.0;"2012-01-01";"2014-12-31";15;189906.0;204841.0;14934.0;13148.0
+235;"Strengthening Urban Education, Research and University-City linkages through the Habitat Partner University Initiative";"H150";1;"FNE";389059.0;"2012-01-01";"2014-12-31";15;517009.0;396507.0;-120502.0;16995.0
+236;"Cities and Climate Change Initiative (CCCI): with additional focus on decentralisation, gender and youth 2012-2014";"J086";1;"FNO";2707620.0;"2012-01-01";"2013-12-31";8;3201488.0;3248357.0;46869.0;233041.0
+237;"Reconstruction with a view to sustainable improvement of Housing and Living conditions of the population affected by the 12 January 2010 Earthquake in the Southeast";"F110";1;"QXB";1292374.0;"2012-07-01";"2016-05-31";7;964027.0;1292374.0;328346.0;58602.0
+238;"Enhancing Global Action for Safer Cities Phase 3";"J093";1;"FSE";511377.0;"2012-01-01";"2017-03-31";14;672995.0;745818.0;72823.0;43285.0
+239;"FDM0411SWE/MTSIP-SIDA: Medium Term Strategic and Institutional Plan Focus Area 2";"T063_B";1;"FNE";201500.0;"2011-01-01";"2012-12-31";8;201500.0;0.0;-201500.0;0.0
+240;"FDM0411SWE/MTSIP-SIDA: Medium Term Strategic and Institutional Plan Focus Area 2";"T063_C";1;"FNE";103000.0;"2011-01-01";"2012-12-31";8;103076.0;0.0;-103076.0;0.0
+241;"FDM0411SWE/MTSIP-SIDA: Medium Term Strategic and Institutional Plan Focus Area 2";"T063_D";1;"FNE";100000.0;"2011-01-01";"2012-12-31";8;100000.0;0.0;-100000.0;0.0
+242;"Sixth Session of The World Urban Forum";"A120_B";1;"FOD";97460.0;"2011-05-01";"2012-12-31";2;99522.0;97460.0;-2062.0;10969.0
+243;"Sixth Session of The World Urban Forum";"A120_A";1;"FOD";1538401.0;"2011-05-01";"2012-12-31";2;1338613.0;977225.0;-361389.0;-434.0
+244;"DRC UNDP Pool Fund: Prevention, Mediation and Follow-Up of Land Based Conflicts in Djugu,Mweso and Masisi ( Eastern DRC )";"C326";1;"QXB";425640.0;"2012-07-01";"2016-05-31";4;397192.0;397192.0;0.0;25985.0
+245;"National Solidarity Programme Phase 3";"D348";1;"QXB";10867200.0;"2012-05-01";"2017-03-31";5;10859422.0;10867251.0;7829.0;710428.0
+246;"Project Name";"P-12-08-27-42";1;"IDF";50000.0;"2012-08-27";"2012-12-31";6;0.0;0.0;0.0;0.0
+247;"FDM0511SWE/MTSIP-SIDA - Development of Project Accrual and Accounting System (PAAS)";"P-12-09-27-83";1;"FNE";476500.0;"2011-09-26";"2012-12-31";6;0.0;0.0;0.0;0.0
+248;"Development of structure /Master plans for nine cities in the State of Osun, Nigeria";"C329";1;"QXB";628141.0;"2012-04-01";"2016-05-31";4;627715.0;627560.0;-155.0;57593.0
+249;"Youth Empowerment for Urban Development (including youth mainstreaming)";"P-12-10-08-22";1;"FOD";40000.0;"2012-10-08";"2012-12-31";6;0.0;0.0;0.0;0.0
+250;"Youth Empowerment for Urban Development (including youth mainstreaming)";"P-12-10-08-51";1;"FOD";40000.0;"2012-10-08";"2012-12-31";6;0.0;0.0;0.0;0.0
+251;"Youth Empowerment for Urban Development (including youth mainstreaming)";"P-12-10-08-3";1;"FOD";40000.0;"2012-10-08";"2012-10-31";6;0.0;0.0;0.0;0.0
+252;"Youth Empowerment for Urban Development (including youth mainstreaming)";"H146_A";1;"FOD";92356.0;"2012-10-08";"2017-05-29";1;424881.0;35148.0;-389733.0;7665.0
+253;"Global Alliance for Prosperous Cities";"P-12-10-25-54";2;"FPP";2000000.0;"2012-11-15";"2015-11-15";15;0.0;0.0;0.0;0.0
+254;"Building statistical capacity to monitor the Millennium Development Goal Slum Target in the context of natural disasters and housing crisis in Africa, Asia and Latin America and the Caribbean";"P-12-10-25-80";2;"ROA";440000.0;"2012-01-01";"2013-12-31";6;0.0;0.0;0.0;0.0
+255;"Water and Sanitation Trust Fund (Provision of adequate and safe drinking water and improved sanitation services in Mandera County, Kenya";"W062";1;"FWS";369518.0;"2012-01-01";"2016-05-31";11;394718.0;394529.0;-189.0;28057.0
+256;"Quick Impact Project: Urban Water and Sanitation Project (UNMISS)";"W063";1;"FWS";500000.0;"2012-08-01";"2016-05-31";11;495695.0;495695.0;0.0;32429.0
+257;"Project Development Phase for the Project; Rapid Planning - Sustainable";"W064";1;"FWS";59131.0;"2012-08-01";"2013-12-31";11;59288.0;59288.0;0.0;6821.0
+258;"The Water, Sanitation and Hygiene and Groundwater Recharge through Schools and Community Initiatives in South Asia";"W065";1;"FWS";750000.0;"2012-09-01";"2016-05-31";11;723636.0;723663.0;27.0;47339.0
+259;"Shelter Response Construction and Rehabilitation to ensure the safe return of 175 Families affected by the Tropical depression 12E in EL Salvador";"F112";1;"QXB";315554.0;"2012-09-01";"2016-05-31";7;315630.0;315554.0;-76.0;20640.0
+260;"Mainstreaming Strategic Planning Frameworks for City Development Strategy through Leadership Training";"D347";1;"QXB";150000.0;"2012-07-15";"2016-05-31";5;149967.0;150000.0;33.0;9780.0
+261;"Gender Equality Programme (including gender mainstreaming)";"H147";1;"FNO";1288302.0;"2012-01-01";"2016-12-31";9;1483421.0;1288302.0;-195119.0;109883.0
+262;"GLOBAL REPORT ON HUMAN SETTLEMENTS 2013";"H145";1;"FNO";291590.0;"2012-01-01";"2016-05-31";15;277675.0;289544.0;11869.0;20569.0
+263;"ASSESSMENT OF THE IMPACT OF CRIME ON URBAN ECONOMIC COMPETITIVENESS,A PILOT CASE IN ZAPOPAN MUNICIPALITY";"F111";1;"QXB";300000.0;"2012-05-01";"2016-08-31";7;184291.0;188078.0;3787.0;21196.0
+264;"Emergency Housing Policy and Technical Advice to the Ministry of Housing and Utilities, Libya";"I006";1;"QXB";13750.0;"2012-08-01";"2013-12-31";16;0.0;0.0;0.0;0.0
+265;"Project Development and Resource Mobilization Towards the Establishment of a Comprehensive Country Programme in Jordan in line with the Priority Areas of UN-Habitat and UNDAF 2013-2017";"I007";1;"QXB";70000.0;"2012-08-01";"2013-12-31";13;0.0;0.0;0.0;0.0
+266;"THE PACIFIC REGIONAL SUPPORT PROGRAMME. : STRENGTHENING PACIFIC URBAN AGENDA IMPLEMENTATION";"D355";1;"QXB";349600.0;"2012-08-01";"2015-06-30";5;317684.0;317684.0;0.0;0.0
+267;"SAMOA- GREATER APIA CITY DEVELOPMENT STRATEGY";"D354";1;"QXB";237000.0;"2012-08-01";"2015-06-30";5;278308.0;270751.0;-7557.0;0.0
+268;"Fund Raising Support to Haiti";"I008";1;"IDF";85000.0;"2012-09-01";"2016-05-31";7;197074.0;0.0;-197074.0;0.0
+269;"Emergency Response to Hurricane Sandy";"I009";1;"RRF";15000.0;"2012-10-27";"2012-12-31";12;0.0;0.0;0.0;0.0
+270;"TA7970: ULBAANBAATAR URBAN SERVICES AND GER AREAS DEVELOPMENT INVESTMENT PROGRAMME (ULAANBAATAR URBAN RENEWAL COMMUNITY PARTICIPATION)";"D353";1;"QXB";69265.0;"2012-09-01";"2014-02-01";5;76496.0;60880.0;-15616.0;2492.0
+271;"Indian Housing Project in Sri Lanka";"D352";1;"QXB";7916732.0;"2012-07-13";"2019-12-31";5;7591424.0;9439390.0;1847966.0;494886.0
+272;"BUILDING BACK SAFER EARLY RECOVERY PILOT PROJECT FOR SIHARA";"D350";1;"QXB";60000.0;"2012-08-01";"2016-05-31";5;59666.0;60000.0;334.0;3866.0
+273;"Global Alliance for the Prosperity of Cities";"I010";1;"IDF";50000.0;"2012-11-01";"2016-05-31";15;50008.0;0.0;-50008.0;0.0
+274;"Operations of The UN-Habitat Fukuoka Office For Asia And The Pacific Region, Phase IV";"D349";1;"FOD";3450000.0;"2012-07-01";"2022-06-30";5;3421884.0;3070000.0;-351884.0;309123.0
+275;"Promoting Integrated and Sustainable Urban Development through Networks ) Humble Bundle_Mojang AB Funding";"J090";1;"FSE";1859404.0;"2012-01-01";"2018-12-31";8;5617065.0;5661478.0;44413.0;454182.0
+276;"SAFER AND FRIENDLY CITIES FALL ALL IN GREATER BEIRUT";"C332";1;"QXB";90000.0;"2012-09-01";"2016-05-31";14;97904.0;125000.0;27096.0;0.0
+277;"UN Advisory Committee of Local Authorities - UNACLA Project 2012 - 2015";"J091";1;"FSE";625158.0;"2012-01-01";"2016-03-31";2;875871.0;960126.0;84255.0;61137.0
+278;"Top 20 Performance Conference, Babat, Morocco";"C331";1;"QXB";317409.0;"2012-08-01";"2016-05-31";15;312209.0;317409.0;5200.0;0.0
+279;"Strengthening the Capacity of Local Administration For Service Delivery In Support of Decentralization Efforts In Liberia";"C330";1;"QXB";100000.0;"2012-08-01";"2016-05-31";4;82488.0;0.0;-82488.0;9490.0
+280;"Core Evaluation Activities of the 2012-2013 Work Programme";"T072";1;"FOD";186047.0;"2012-01-01";"2013-12-31";17;211636.0;211542.0;-94.0;0.0
+281;"Corporate Resource Mobilization Process and Events";"T075";1;"FNE";320999.0;"2012-08-01";"2014-12-31";9;317953.0;157645.0;-160308.0;0.0
+282;"DEVELOPING GUIDELINES ON SCHOOL SAFETY AND RESILIENT SCHOOL BUILDING CODES, MOZAMBIQUE (CROSS REF: C218; WORLD BANK FUNDING";"C328";1;"QXB";185735.0;"2012-08-01";"2016-08-31";4;214060.0;285499.0;71439.0;19308.0
+283;"Governance Review";"T076";1;"FNE";193029.0;"2012-01-01";"2014-12-31";17;138725.0;95833.0;-42892.0;0.0
+284;"Organizational Review";"T077";1;"FNE";90000.0;"2012-01-01";"2014-12-31";9;193029.0;95833.0;-97196.0;0.0
+285;"Governance Review";"T055_C";1;"FNE";140538.0;"2012-01-01";"2014-12-31";17;0.0;0.0;0.0;0.0
+286;"Global Water Operators Partnerships Alliance Secretariat in Barcelona (GWOPA)";"W066";1;"FSP";7078510.0;"2013-01-01";"2018-12-31";11;7445922.0;6769120.0;-676802.0;655060.0
+287;"Immediate WASH assistance addressing the lifesaving needs of 6,500 most vulnerable flood affected families in three districts of Sindh and Balochistan Provinces of Pakistan";"D361";1;"RRF";575000.0;"2012-10-16";"2016-05-31";5;522291.0;575000.0;52709.0;34169.0
+288;"Pakistan Floods 2012 - Shelter Response in Balochistan";"P-12-12-07-11";1;"RRF";564890.0;"2012-12-07";"2013-06-06";5;0.0;0.0;0.0;0.0
+289;"Integration of long-term IDPs into the host community in Bossaso- additional 150 housing units supplementary funding by CHF";"C340";1;"QXB";448552.0;"2012-12-01";"2016-05-31";4;448553.0;448552.0;-1.0;29345.0
+290;"Support to Benadir Regional Administration's Central Department of Urban Planning";"C335";1;"QXB";209720.0;"2013-01-01";"2016-05-31";4;203599.0;209720.0;6121.0;13714.0
+291;"Pakistan Monsoon Humanitarian Flood Response 2012";"D364";1;"QXB";800000.0;"2012-12-15";"2016-05-31";5;799993.0;800000.0;7.0;52336.0
+292;"National Solidarity Programme NSPIII Sub-Phase A (Rollout of remaining coummunities in Farah and Nangarhar)";"D351";1;"QXB";1545600.0;"2012-07-01";"2017-03-31";5;1544336.0;1545600.0;1264.0;101031.0
+293;"Hargeisa Urban Water Supply Upgrading Project (HUWSUP)";"C338";1;"QXB";19500000.0;"2013-01-01";"2016-12-31";4;13826330.0;22321000.0;8494671.0;567027.0
+294;"Bossaso Port and Roads Infrastructure Upgrading Puntland State of Somalia";"C334";1;"QXB";2943458.0;"2012-07-01";"2017-12-31";4;2564593.0;2606160.0;41567.0;134223.0
+295;"Iraq Public Sector Modernisation Programme (IPSM) Phase II";"N054";1;"QXB";3143946.0;"2013-01-01";"2018-12-31";13;2606373.0;3829263.0;1222890.0;195337.0
+296;"Post-Disaster Support Mission";"P-13-01-08-25";2;"IDF";18000.0;"2013-01-14";"2013-03-31";5;0.0;0.0;0.0;0.0
+297;"Humanitarian shelter response to address immediate life-saving shelter needs for vulnerable and extremely vulnerable flood affected people in the province of Balochistan";"D362";1;"QXB";564890.0;"2012-10-16";"2016-05-31";5;548806.0;564890.0;16084.0;35903.0
+298;"Establishment of UN-Habitat Bangladesh Country Programme";"I011";1;"QXB";66809.0;"2012-11-01";"2016-05-31";5;57150.0;0.0;-57150.0;0.0
+299;"Partnerships for Safer Myanmar Initiative";"D360";1;"QXB";476619.0;"2012-06-01";"2014-03-31";5;464404.0;451102.0;-13302.0;30617.0
+300;"Mainstreaming and Adoption of Tools for Assesment of School and Hospitality Safety for Multi-Hazards in South Asia";"D357";1;"QXB";100000.0;"2012-11-01";"2013-03-31";5;99555.0;100000.0;445.0;6097.0
+301;"Joint WFP- UN Habitat Initiative on Phillipine Cities and Climate Change Adaptation";"D358";1;"QXB";809800.0;"2012-09-03";"2013-11-30";5;376300.0;376965.0;665.0;23996.0
+302;"Land Administration and Management Program (LAMP) for Myanmar";"D359";1;"QXB";2329736.0;"2012-11-01";"2016-02-29";5;2099281.0;2322139.0;222858.0;118626.0
+303;"ROAS Sample";"P-13-01-16-31";2;"IDF";150.0;"2013-02-01";"2014-01-31";6;0.0;0.0;0.0;0.0
+304;"Pacific Cities and Climate Change Regional Programme";"D365";1;"QXB";55000.0;"2012-10-01";"2012-12-31";5;55000.0;54975.0;-25.0;0.0
+305;"Green growth led development strategy and solutions";"D366";1;"QXB";253000.0;"2013-01-01";"2016-05-31";5;252666.0;253000.0;334.0;22666.0
+306;"Support to the Sustainable Urban Development Sector in Kenya, 2012-2014";"C339";1;"FSE";2329076.0;"2013-01-01";"2018-12-31";4;3799843.0;3700255.0;-99588.0;250771.0
+307;"Appui au retour et à la réintégration durables des rapatriés et retournés par la prévention et la médiation des conflits fonciers";"C342";1;"QXB";296354.0;"2013-01-01";"2016-05-31";4;292953.0;296354.0;3401.0;19388.0
+308;"Strengthening Urban Observatory and Statistical Systems for Urban Evident-based Development and Planning Policies in Vietnam";"D363";1;"QXB";300000.0;"2012-12-12";"2017-12-31";5;288001.0;203365.0;-84636.0;17683.0
+309;"Training and Capacity Development in Support to the Land Policy Initiative in Africa";"G071";1;"FOD";652611.0;"2012-03-15";"2016-10-31";14;356049.0;498870.0;142821.0;12040.0
+310;"Strengthening Urban Planning Capacity in Lusaka, Zambia";"C343";1;"QXB";100000.0;"2013-01-01";"2016-05-31";4;122969.0;577791.0;454823.0;14150.0
+311;"Improving living conditons in returnee areas of Sri Lanka through housing";"D372";1;"QXB";15324675.0;"2013-01-01";"2016-03-31";5;15540871.0;15409557.0;-131315.0;1017098.0
+312;"Urban Poverty Reduction in Mexico 2011-2013 SEDESOL";"P-13-02-13-75";2;"FPP";450600.0;"2011-09-01";"2013-08-28";18;0.0;0.0;0.0;0.0
+313;"Mainstreaming and Adoption of tools for the Assessment of school and hospital safety for Multi-Hazard in South Asia";"P-13-02-14-19";1;"QXB";120000.0;"2012-11-01";"2012-12-31";6;0.0;0.0;0.0;0.0
+314;"Cities Prosperity Initiative (2013-2015) - Corregidora Municipality";"H152_A";1;"FOD";50000.0;"2013-04-22";"2015-12-31";15;7501.0;75000.0;67499.0;1818.0
+315;"Joint WFP - UN-Habitat initiative on Philippine cities and climate change adapatation";"P-13-02-18-86";2;"QXB";376965.0;"2012-09-03";"2013-09-02";5;0.0;0.0;0.0;0.0
+316;"Empowerment of Vulnerable Urban Youth for Socio-Economic Inclusion and Development in Arua Municipality";"P-13-02-19-38";1;"FOD";74396.0;"2011-03-01";"2012-12-31";6;0.0;0.0;0.0;0.0
+317;"Achieving Sustainable Urban Development in Mozambique - Phase I and II";"A118_I";1;"FSP";1903750.0;"2012-10-05";"2015-12-31";4;1626757.0;683350.0;-943407.0;194524.0
+318;"Project Development and Resource Mobilization towards the establishment of project to reform Urban Planning Systems in Lebanon";"I012";1;"QXB";100000.0;"2012-12-01";"2016-05-31";13;83883.0;0.0;-83883.0;0.0
+319;"Emergency Response Syrian Crisis";"I013";1;"QXB";167500.0;"2012-12-24";"2016-05-31";12;358416.0;0.0;-358416.0;0.0
+320;"Peace Building in Darfur Through Resource Management and Livelihoods";"C341";1;"QXB";1293417.0;"2013-01-15";"2017-08-31";13;1288672.0;793982.0;-494690.0;76356.0
+321;"Post Disaster Support Mission";"I014";1;"QXB";18000.0;"2013-01-14";"2013-03-31";12;12073.0;0.0;-12073.0;0.0
+322;"Supporting the Formulation of Sustainable Urban Development Programme Proposals in Africa";"I015";1;"QXB";94000.0;"2012-02-04";"2016-05-31";4;87833.0;-1756.0;-89589.0;0.0
+323;"Developpement et Planification Territoriale";"C348";1;"TAS";498097.0;"2013-01-01";"2016-10-31";4;1310656.0;0.0;-1310656.0;84742.0
+324;"Achieving Sustainable Urban Development Priorities (OED-4608)";"A118_P";1;"FSP";1423267.0;"2013-01-01";"2015-06-30";17;0.0;0.0;0.0;0.0
+325;"REGIONAL MULTI-SECTORAL DRR ASSISTANCE PROGRAMME FOR SOUTHERN AFRICA (UN-Habitat Basc Infrastructure , Shelter and Urban Risk Assistance)";"C345";1;"QXB";769238.0;"2013-01-01";"2015-12-31";4;769044.0;769238.0;194.0;55037.0
+326;"Sustainable Urban Reintergration of Displaced Populations in Blue Nile State";"C333";1;"QXB";1854809.0;"2012-09-01";"2016-10-31";13;1852536.0;1854810.0;2274.0;121676.0
+327;"Support to transformations of the Housing Sector in Cuba";"F113";1;"QXB";756376.0;"2012-06-01";"2017-12-31";7;1275934.0;1142357.0;-133577.0;82896.0
+328;"Programme de securisation fonciere integree pour la reintegration et la relance communautaire a l'est de la RDC.";"C352";1;"QXB";467290.0;"2013-01-10";"2016-10-31";4;448935.0;0.0;-448935.0;29370.0
+329;"Core Evaluation activities of UN-Habitat MTSIP and Work Programme 2012-2013";"T074";1;"FNE";230000.0;"2012-01-01";"2014-12-31";17;230433.0;113083.0;-117350.0;0.0
+330;"Popular Economy of the Agglomeration Areas in Bogota";"F114";1;"FSP";1452000.0;"2013-02-04";"2017-06-02";7;1616746.0;1208000.0;-408746.0;118878.0
+331;"Strengthening Staff Capacity / Excellence in Management";"T078";1;"FNE";90000.0;"2012-06-01";"2013-12-31";10;113898.0;177770.0;63872.0;0.0
+332;"Implementation of Project Accrual and Accountability System (PAAS)";"T079";1;"FNE";479419.0;"2013-01-24";"2014-12-31";10;494928.0;232736.0;-262192.0;0.0
+333;"Formulating the National Policy for the System of Cities and institutional strengthening for the Association of Colombian Capital Cities.";"F118";1;"QXB";401060.0;"2013-04-01";"2017-12-31";7;1109334.0;1194503.0;85169.0;74766.0
+334;"Water Management - Developing Irrigation Associations for On-Farm Water Management Project (OFWMP)";"D370";1;"QXB";378000.0;"2012-03-25";"2014-06-30";5;378001.0;378000.0;-1.0;24729.0
+335;"Urban Development";"P-13-03-25-88";2;"FPP";100000.0;"2013-04-01";"2014-01-31";6;0.0;0.0;0.0;0.0
+336;"Urban Planning and Territorial Management in Metropolitan Regions – Inputs for the Elaboration of the Brazilian Policy on Metropolitan Governance";"P-13-03-25-27";2;"FPP";328106.0;"2013-04-01";"2014-04-30";6;0.0;0.0;0.0;0.0
+337;"Urban Planning and Territorial Management in Metropolitan Regions – Inputs for the Elaboration of the Brazilian Policy on Metropolitan Governance";"F127";1;"QXB";276469.0;"2013-12-13";"2017-08-31";7;104900.0;192937.0;88037.0;5109.0
+338;"Urban Development";"P-13-03-26-95";2;"FPP";100000.0;"2013-04-01";"2013-08-31";6;0.0;0.0;0.0;0.0
+339;"Support to LDC to attend the 24th Session of the Governing Council of UN-Habitat";"A124";1;"FNE";100000.0;"2013-03-26";"2013-05-31";17;49447.0;0.0;-49447.0;0.0
+340;"Support to LDC Countries to attend the 24th Session of the Governing Council of UN-Habitat (1996 - Governing Council Secretariat)";"A124_A";1;"FNE";25000.0;"2013-03-26";"2013-05-31";17;5940.0;0.0;-5940.0;0.0
+341;"Support to LDC Countries to attend the 24th Session of the Governing Council of UN-Habitat ( 4632 - Regional Office for Africa)";"A124_B";1;"FNE";27000.0;"2013-03-26";"2013-05-31";17;16900.0;0.0;-16900.0;0.0
+342;"Support to LDC Countries to attend the 24th Session of the Governing Council of UN-Habitat (Regional Office for Asia & the Pacific)";"A124_C";1;"FNE";4000.0;"2013-03-26";"2013-05-31";17;3927.0;0.0;-3927.0;0.0
+343;"Support to LDC Countries to attend the 24th Session of the Governing Council of UN-Habitat ( 4642 - Regional Office for Latin America & the Caribbean)";"A124_D";1;"FNE";4000.0;"2013-03-26";"2013-05-31";17;3965.0;0.0;-3965.0;0.0
+344;"Support to LDC Countries to attend the 24th Session of the Governing Council of UN-Habitat ( 4652 - Urban Economy)";"A124_E";1;"FNE";20000.0;"2013-03-26";"2013-05-31";17;17626.0;0.0;-17626.0;0.0
+345;"Support to LDC Countries to attend the 24th Session of the Governing Council of UN-Habitat ( 4608 - Office of the Executive Director)";"A124_F";1;"FNE";20000.0;"2013-03-26";"2013-05-31";17;1089.0;0.0;-1089.0;0.0
+346;"Housing and Livelihood Support for Returnees in South Sudan";"C351";1;"QXB";3200000.0;"2013-04-01";"2016-10-31";4;3198506.0;3197998.0;-508.0;209421.0
+347;"Cost Centre - Management";"V011";1;"HFU";92342.0;"2012-01-01";"2013-12-31";10;249036.0;0.0;-249036.0;0.0
+348;"Cost Centre - Urban Basic Services";"V017";1;"HFU";65384.0;"2012-01-01";"2013-12-31";11;207396.0;0.0;-207396.0;0.0
+349;"Cost Centre - Urban Planning & Design";"V015";1;"HFU";96414.0;"2012-01-01";"2018-12-31";8;120529.0;24309890.0;24189361.0;0.0
+350;"Cost Centre - Advocacy, Communications & Outreach";"V005";1;"HFU";194012.0;"2012-01-01";"2018-12-31";2;374318.0;24309890.0;23935573.0;0.0
+351;"Cost Centre - Project Office";"V012";1;"HFU";57141.0;"2012-01-01";"2018-12-31";9;122582.0;24309890.0;24187309.0;0.0
+352;"Cost Centre - Housing & Slum Upgrading";"V018";1;"HFU";52406.0;"2012-01-01";"2018-12-31";16;102817.0;24309890.0;24207073.0;0.0
+353;"Cost Centre - Urban Land, Legislation & Governance";"V014";1;"HFU";44720.0;"2012-01-01";"2018-12-31";14;67463.0;24309890.0;24242428.0;0.0
+354;"Cost Centre - Research & Capacity Building";"V020";1;"HFU";58789.0;"2012-01-01";"2018-12-31";15;138972.0;24309890.0;24170919.0;0.0
+355;"Cost Centre - Urban Economy Branch";"V016";1;"HFU";71337.0;"2012-01-01";"2018-12-31";1;78578.0;24309890.0;24231313.0;0.0
+356;"Cost Centre - Risk Reduction & Rehabilitation";"V019";1;"HFU";74972.0;"2012-01-01";"2018-12-31";12;113260.0;24309890.0;24196631.0;0.0
+357;"Cost Centre - Office of the Executive Director";"V001";1;"HFU";294296.0;"2012-01-01";"2018-12-31";17;627465.0;24309890.0;23682426.0;0.0
+358;"Cost Centre - Cross Cutting Issues";"V006";1;"HFU";6700.0;"2012-01-01";"2018-12-31";9;5940.0;24309890.0;24303950.0;0.0
+359;"2287-ROA-193-6B: 6th Tranche AU, Building Statistical Capacity to monitor the Millenium Development Goal Slum target in the context o f Natural Disasters and Housing Crises in Africa, Asia and Latin America and the Caribean";"2287";1;"ROA";440000.0;"2012-01-01";"2014-06-30";15;432652.0;0.0;-432652.0;0.0
+360;"Durable Shelter Solutions for IDPs and Returnees in Baghdad";"P-13-04-02-24";2;"QXB";1500000.0;"2013-04-30";"2014-03-31";6;0.0;0.0;0.0;0.0
+361;"2942-ROA-2518A: Project AU, Capacity development to increase Asian and Pacific Cities' Resilience to Climate Change";"9168";1;"ROA";382000.0;"2013-01-01";"2013-12-31";15;218087.0;0.0;-218087.0;0.0
+362;"2916-ROA-225-8: (8th tranche) Project U, Strengthening capacity of policy makers in South East Asia for Promoting Policies and Developing Plans for Waste Water treatment and reuse in Urban and Peri-urban Areas";"9169";1;"ROA";348000.0;"2013-01-01";"2013-12-31";11;171303.0;0.0;-171303.0;0.0
+363;"Cost Center - Partners";"V021";1;"HFU";1000.0;"2012-01-01";"2018-12-31";17;-423.0;24309890.0;24310313.0;0.0
+364;"Cost Centre - General Operating Expense/ Centrally Managed Expenditure";"V022";1;"TOH";19426.0;"2012-01-01";"2018-12-31";19;7961676.0;24309890.0;16348214.0;0.0
+365;"Kabul Solidarity Programme";"D356";1;"QXB";5164992.0;"2012-09-01";"2013-12-30";5;5160652.0;5160650.0;-2.0;337613.0
+366;"XBRWAB2001: Achieving Sustainable Urban Development in Rwanda: NATIONAL URBANISA";"C337";1;"QXB";1186500.0;"2012-10-01";"2017-04-30";4;1181996.0;0.0;-1181996.0;134831.0
+367;"Safer Cities free of violence against Women and Girls - Greater Cairo Region, Egypt";"C314";1;"QXB";90000.0;"2012-06-01";"2016-05-31";9;65982.0;90000.0;24018.0;0.0
+368;"Disaster Risk Reduction for Safer and Resilient Burmese Coastal Communities (DRR-SBCC)";"D371";1;"QXB";636650.0;"2012-10-01";"2015-04-30";5;557049.0;592132.0;35083.0;64088.0
+369;"Enhancing collaboration with WHO and support to fund-raising activities of UNHABITAT";"I005";1;"QXB";102775.0;"2012-08-01";"2013-08-01";11;-506.0;0.0;506.0;0.0
+370;"Public Spaces and the Right to the City - Greater Cairo Region, Egypt";"C347";1;"QXB";105000.0;"2013-02-01";"2016-03-31";13;99970.0;100022.0;52.0;9088.0
+371;"Because I Am a Girl: Urban Programme - Greater Cairo Region, Egypt";"C346";1;"QXB";23750.0;"2012-07-01";"2016-05-31";13;21376.0;23710.0;2334.0;1943.0
+372;"Supporting Implementation of NPUDEC in Cape Verde";"P-13-04-17-98";2;"IDF";50000.0;"2013-05-23";"2014-05-22";6;0.0;0.0;0.0;0.0
+373;"new idfnew idfnew idf";"P-13-04-17-49";2;"-";0.0;"2013-04-17";"2013-04-27";6;0.0;0.0;0.0;0.0
+374;"Social Cohesion and Peace Building Programme - Peshawar Torkham Expressway Pakistan";"D367";1;"QXB";1027738.0;"2012-12-01";"2016-10-31";5;1026630.0;1018000.0;-8630.0;67163.0
+375;"Strengthening Partnerships for a New African Urban Agenda";"I017";1;"IDF";3000000.0;"2013-01-01";"2017-12-31";2;395420.0;1876885.0;1481465.0;27307.0
+376;"Project for Rehabilitation of Community Infrastructure and Facilities in the Conflict Affected Areas in Northern Provinces in Sri Lanka";"D377";1;"QXB";4003598.0;"2013-04-01";"2015-06-30";5;3627522.0;3629712.0;2190.0;237713.0
+377;"Community-Based Municipal Support Programme (CBMSP)";"D376";1;"QXB";23009409.0;"2013-04-01";"2015-03-31";5;23009856.0;23138114.0;128258.0;1503867.0
+378;"UN-Habitat Technical Support to the Ethiopian Resilient and Green Cities Development and Governance package";"P-13-05-13-83";2;"IDF";100000.0;"2013-04-01";"2013-08-31";4;0.0;0.0;0.0;0.0
+379;"Desarrollo Urbano Sostenible para Niños Niñas y Adolescentes";"F122";1;"QXB";147967.0;"2013-06-01";"2016-08-31";7;141620.0;147967.0;6348.0;9253.0
+380;"Achieving Sustainable Urban Development Priorities (ASUD) - Egypt";"C364";1;"FSP";1130000.0;"2013-10-01";"2017-12-31";13;1117116.0;1092.0;-1116024.0;123233.0
+381;"City Resilience Profiling Programme";"J095";1;"FOD";1539060.0;"2012-06-01";"2021-12-31";12;1213211.0;1243068.0;29857.0;128263.0
+382;"Project development and resource mobilization for the formulation of the Saudi Arabia Future Cities Programme";"I018";1;"IDF";100000.0;"2013-05-22";"2016-05-31";9;-998.0;0.0;998.0;0.0
+383;"Liberian Urban Development Programme - Core Support for Programme Formulation";"I016";1;"QXB";100000.0;"2013-01-20";"2013-05-20";4;32363.0;0.0;-32363.0;0.0
+384;"Xi'an Chanba Ecology Zone Sustainable Development Project";"D381";1;"QXB";56134.0;"2013-05-01";"2014-11-30";5;55844.0;56135.0;291.0;5077.0
+385;"Integrated Territorial Development";"P-13-05-23-39";2;"IDF";85000.0;"2013-06-01";"2013-12-31";9;0.0;0.0;0.0;0.0
+386;"Shelter Recovery Coordination Support in Samoa";"D380";1;"QXB";218815.0;"2013-02-21";"2013-08-20";5;123274.0;192320.0;69046.0;6444.0
+387;"Durable Shelter Solutions for IDPs/ Returnees Phase 2";"C381";2;"QXB";1500000.0;"2013-04-01";"2014-03-31";13;0.0;0.0;0.0;0.0
+388;"SHELTER PROVISION, REINTEGRATION AND IMPROVED LIVELIHOODS FOR RETURNEES AND IDPS IN 3 TOWNS IN SOMALILAND";"C350";1;"QXB";3200000.0;"2013-06-03";"2017-06-30";4;3587383.0;3200585.0;-386797.0;207052.0
+389;"Mainstreaming Knowledge Management in the Achieving Sustainable Urban Development (ASUD) Programme";"A128";1;"FSP";149600.0;"2013-06-01";"2016-05-31";9;24215.0;0.0;-24215.0;2786.0
+390;"Papua New Guinea (PNG) Settlement Upgrading Programme";"D378";1;"FCL";350000.0;"2013-05-31";"2015-06-30";5;319832.0;319797.0;-35.0;0.0
+391;"METROPOLITAN GOVERNANCE IN THE STATE OF SÃO PAULO – FACILITATING THE FORMULATION AND IMPLEMENTATION OF SÃO PAULO MACRO METROPOLIS ACTION PLAN AND ITS PORTFOLIO PROJECTS";"F125";1;"QXB";197571.0;"2013-10-04";"2017-12-01";7;177690.0;158335.0;-19355.0;8282.0
+392;"National Solidarity Programme (Repeater Block Grants - 2nd Round)";"D379";1;"QXB";8101394.0;"2012-03-01";"2013-02-28";5;8004937.0;8101792.0;96855.0;523687.0
+393;"Development of Knowledge Management Systems";"A125";1;"FSE";45873.0;"2013-01-01";"2016-09-30";10;61287.0;61562.0;275.0;4009.0
+394;"The Africa Urban Agenda";"A126";1;"FOD";3500000.0;"2013-06-01";"2016-12-31";2;1158303.0;1111621.0;-46682.0;86269.0
+395;"Cross-cutting Issues: Mainstreaming and Strengthening Youth and Democracy at the Local level to create Safer Cities";"T069";1;"FNE";148000.0;"2012-11-20";"2014-11-19";14;99606.0;38477.0;-61129.0;0.0
+396;"The Programme for Development and Rehabilitation of Community in Ethnic Minority Area in the Republic of the Union of Myanmar";"D382";1;"QXB";6853528.0;"2013-05-23";"2014-08-31";6;6771344.0;6853528.0;82184.0;440328.0
+397;"Continuation of Shelter infrastructure development and Integration of Long Term IDPs into the Host Community in Bosaaso";"C349";1;"QXB";2000000.0;"2013-04-30";"2016-10-31";6;2162328.0;2000758.0;-161570.0;130285.0
+398;"Strengthening the Capacities of ICGLR Member States in the Great Lakes Region to Address the Land and Property Issues of IDPs and Refugees";"9170";1;"ROA";452000.0;"2013-07-01";"2015-12-31";6;180884.0;0.0;-180884.0;0.0
+399;"Lifesaving WASH Services to IDPs in Tirah Valley, Pakistan";"D383";1;"QXB";100000.0;"2013-06-01";"2016-05-31";6;99522.0;100000.0;478.0;6487.0
+400;"Technical Assistance for African Water Operators through Water Operators Partnerships";"W081";1;"FOD";1000000.0;"2013-11-01";"2016-10-31";6;948065.0;1000000.0;51935.0;120920.0
+401;"UNHABITAT Technical Support to the Ethiopian Resilient and Green Cities Development and Governance package";"P-13-06-24-52";2;"QXB";100000.0;"2013-06-01";"2014-08-30";4;0.0;0.0;0.0;0.0
+402;"Green Homes - Promoting Sustainable Housing in Nepal";"D374";1;"QXB";1121034.0;"2013-01-01";"2016-03-31";6;836740.0;846775.0;10035.0;56912.0
+403;"State of Colombian Cities Report";"F119";1;"QXB";972705.0;"2013-07-01";"2017-11-18";6;834391.0;718711.0;-115680.0;48808.0
+404;"A Partnership for Urban Planning in Africa - UN-Habitat & Booyoung";"J096";1;"FOD";2600000.0;"2013-06-01";"2022-10-31";6;1435501.0;2278603.0;843103.0;163190.0
+405;"Support the Establishment of a Technical Centre for Disaster Risk Reduction and Climate Change Adaptation for Southern Africa (DIMSUR)";"C353";1;"QXB";810000.0;"2013-07-01";"2018-05-31";6;792826.0;810000.0;17174.0;65502.0
+406;"Sharing Opportunities for Low carbon Urban transportation (SOLUTIONS)";"W071";1;"FOD";130171.0;"2013-07-15";"2017-09-25";6;156034.0;144424.0;-11611.0;10178.0
+407;"Urban Planning and Management Land in the Metropolitan Area of Aburra Valley";"F124";1;"QXB";437638.0;"2013-09-02";"2016-10-31";6;557101.0;551747.0;-5354.0;36446.0
+408;"Wastewater Management and Water Quality Sub-Consultation of the Post-2015 Water Thematic Consultation";"W067";1;"FWS";58957.0;"2013-02-01";"2016-05-31";6;58474.0;58957.0;483.0;3825.0
+409;"Catalytic Support on Land Issues";"D375";1;"QXB";481500.0;"2013-03-01";"2015-12-15";6;446747.0;481500.0;34753.0;29844.0
+410;"Planning Support to Palestinian Communities in Area C, West Bank, occupied Palestinian territory";"P015";1;"FPP";647602.0;"2012-12-01";"2016-09-30";6;632904.0;699369.0;66465.0;16132.0
+411;"REGIONAL MULTI-SECTORAL DRR ASSISTANCE PROGRAMME FOR SOUTHERN AFRICA (UN-Habitat Basc Infrastructure , Shelter and Urban Risk Assistance)";"C360";2;"QXB";99600.0;"2013-07-15";"2016-08-31";6;80546.0;99600.0;19054.0;5269.0
+412;"Achieving Sustainable Urban Development Prioirities ( Information Services Section - 2004)";"P-13-07-23-21";2;"FSP";447368.0;"2013-01-01";"2013-03-01";6;0.0;0.0;0.0;0.0
+413;"CITIES PROSPERTY INITIATAIVE";"P-13-07-23-16";2;"FOD";1200000.0;"2013-04-01";"2015-12-31";15;0.0;0.0;0.0;0.0
+414;"Cities Prosperity Initiative (2013-2015) - Metropilitan Zone of Guadalajara";"H153";2;"FOD";1200000.0;"2013-04-25";"2016-12-31";6;1142384.0;1200000.0;57616.0;135661.0
+415;"CITIES PROSPERTY INITIATAIVE";"P-13-07-23-92";2;"FOD";1500000.0;"2013-04-01";"2013-12-31";15;0.0;0.0;0.0;0.0
+416;"Cities Prosperity Initiative (2013-2015) - Municipality of Zapopan";"H154";2;"FOD";800000.0;"2013-04-01";"2017-12-31";6;274065.0;274835.0;770.0;31612.0
+417;"Joint Programme on Local Governance and Decentralised Service Delivery, UN-JPLG (Phase II)-DFID";"C354";2;"QXB";3930047.0;"2013-01-01";"2019-12-31";6;3890346.0;2702841.0;-1187506.0;228787.0
+418;"CAPACITY BUILDING IN THE CITY OF SANTA MARTA FOR SUSTAINABLE URBAN DEVELOPMENT";"F115";2;"QXB";1051327.0;"2013-02-04";"2017-06-30";6;1032537.0;713620.0;-318916.0;35006.0
+419;"Seventh session of the World Urban Forum, 5 - 11 April 2014";"P-13-07-29-38";2;"ROA";50000.0;"2013-01-01";"2014-12-31";6;0.0;0.0;0.0;0.0
+420;"Joint Programme on Local Governance and Decentralised Service Delivery, UN-JPLG (Phase II) _SIDA";"C355";2;"QXB";3994698.0;"2013-01-01";"2018-12-31";4;4732760.0;2683734.0;-2049025.0;283823.0
+421;"Joint Programme on Local Governance and Decentralised Service Delivery, UN-JPLG (Phase II) _EC";"C361";2;"QXB";1620468.0;"2013-01-01";"2016-12-31";4;1598426.0;798656.0;-799770.0;104581.0
+422;"Joint Programme on Local Governance and Decentralised Service Delivery, UN-JPLG (Phase II)-DANIDA";"C362";2;"QXB";956940.0;"2013-01-01";"2017-12-31";4;947133.0;720752.0;-226381.0;48831.0
+423;"Low Cost Community Based Sludge Management services in Mogadishu IDP Camps";"C336";2;"FWS";140662.0;"2013-05-30";"2013-12-31";4;140662.0;140662.0;0.0;9202.0
+424;"PILaR GLOBAL PILOT: Piloting an Inclusive and Participatory Land Readjustment in Colombia for Sustainable Urban Development at Scale";"F116";2;"FSP";565000.0;"2012-12-01";"2017-11-10";14;672274.0;98469.0;-573805.0;81359.0
+425;"PILaR GLOBAL PILOT: Piloting an Inclusive and Participatory Land Readjustment in Colombia for Sustainable Urban Development at Scale";"F120";2;"QXB";1000000.0;"2012-12-01";"2017-04-30";14;991430.0;1004269.0;12838.0;63740.0
+426;"Boosting Effectiveness in Water Operators' Partnerships (BEWOP)";"W083";2;"FOD";1276222.0;"2013-08-01";"2019-07-15";17;854315.0;467558.0;-386757.0;80698.0
+427;"Coordination of Small Island Developing States Responses to Cities and other Human Settlements coping with Climate Change and Sustainable Land Use";"F121";2;"QXB";371280.0;"2013-08-30";"2016-03-31";7;42097.0;391280.0;349183.0;3050.0
+428;"Seventh session of the World Urban Forum (WUF7)";"P-13-08-13-42";2;"FOD";4000000.0;"2012-06-01";"2015-04-30";6;0.0;0.0;0.0;0.0
+429;"Appui au retour et a la reintegration durables des rapatries et retournes par la prevention et resolution des conflits fonciers";"P-13-08-13-46";2;"QXB";580000.0;"2013-08-01";"2014-12-31";6;0.0;0.0;0.0;0.0
+430;"Appui au retour et a la reintegration durables des rapatries et retournes par la prevention et resolution des conflits fonciers";"C356";2;"QXB";580000.0;"2013-08-01";"2016-09-15";4;579264.0;580000.0;736.0;37896.0
+431;"Urban Youth Empowerment and Ecological Safety Project";"H155";2;"FOD";2000000.0;"2013-08-14";"2018-06-30";1;1280233.0;999850.0;-280383.0;94832.0
+432;"Mainstream";"P-13-08-14-95";2;"QXB";425000.0;"2013-04-01";"2015-03-30";6;0.0;0.0;0.0;0.0
+433;"Socio-Economic and Urban Renewal Programme for Ondo State of Nigeria";"H156";2;"FOD";2000000.0;"2013-07-01";"2016-12-31";1;559841.0;600000.0;40159.0;40714.0
+434;"ICT and Urban Governance: Future Policy Modeling (FUPOL)";"P-13-08-16-34";2;"QXB";120000.0;"2013-05-15";"2015-12-31";14;0.0;0.0;0.0;0.0
+435;"Enhancing the Role of Union of Municipalities to Respond to Refugees' and Host Communities' Needs";"C363";2;"QXB";3559822.0;"2013-09-01";"2016-08-01";13;3322201.0;3559822.0;237621.0;221247.0
+436;"Development of PAAS Project Manual";"P-13-08-19-11";2;"FNE";10000.0;"2013-08-19";"2013-08-23";6;0.0;0.0;0.0;0.0
+437;"Seventh Session of the World Urban Forum (WUF 7)";"A127";1;"FOD";4000000.0;"2013-04-01";"2016-04-30";2;2499877.0;2000000.0;-499877.0;0.0
+438;"Improving Urban Water Service Delivery in Somaliland targeting Burao, Erigavo, Tag Wajaale and Boroma towns";"C368";1;"QXB";306128.0;"2013-05-01";"2017-12-31";4;302577.0;306119.0;3542.0;17343.0
+439;"Urban Improvement and Transformation of Kabul City Phase 2 (Kabul Solidarity Programme Phase 2 KSP)";"D385";1;"QXB";5394054.0;"2013-07-01";"2014-11-30";5;5394055.0;5394054.0;-1.0;256860.0
+440;"Shelter Cluster Regional Focal Point for the Americas";"K094";1;"QXB";56233.0;"2013-09-01";"2014-12-31";12;156039.0;37996.0;-118044.0;8832.0
+441;"CITIES PROSPERITY INITIATIVE (Corregidora Municipality)";"P-13-08-28-40";2;"FOD";50000.0;"2013-08-01";"2014-07-31";15;0.0;0.0;0.0;0.0
+442;"Quick Impact Project: Urban Piped Water Project: QIPs-2 for 6 towns (UNMISS)";"W068";2;"FWS";594000.0;"2013-08-01";"2016-08-31";11;593201.0;593201.0;0.0;38808.0
+443;"Prevention et resolution des conflits fonciers dans les zones de deplacement et de retour en territoire de Masisi (axes Sake-Mweso et sake-Nyabiondo), Province du Nord Kivu, RD Congo";"P-13-08-30-34";2;"TIP";618164.0;"2013-09-01";"2015-08-31";6;0.0;0.0;0.0;0.0
+444;"Prevention et resolution des conflits fonciers dans les zones de deplacement et de retour en territoire de Masisi (axes Sake-Mweso et sake-Nyabiondo), Province du Nord Kivu, RD Congo";"C357";2;"QXB";618164.0;"2013-09-01";"2016-12-31";4;616839.0;617918.0;1079.0;40354.0
+445;"MEKWATSAN - Rural Livelihoods improvement Programme (RLIP) project in Attapeu, LAO PDR";"W070";2;"FWS";240000.0;"2013-09-01";"2016-05-31";11;236405.0;238546.0;2141.0;15466.0
+446;"Cities Prosperity Initiative (2013-2015) (Umbrella)";"H152";2;"FOD";2000000.0;"2013-04-01";"2016-05-31";15;39986.0;75000.0;35014.0;4600.0
+447;"Programme de securisation fonciere integree pour la reintegration et la relance communautaire a l'est de la RDC.";"P-13-09-03-65";2;"QXB";643997.0;"2013-09-01";"2015-08-31";6;0.0;0.0;0.0;0.0
+448;"Programme de securisation fonciere integree pour la reintegration et la relance communautaire a l'est de la RDC.";"C358";2;"QXB";643997.0;"2013-09-01";"2016-12-31";4;644551.0;643997.0;-554.0;42167.0
+449;"Shelter and WASH Support for non-camp Refugees - Iraq";"N055";2;"QXB";1108357.0;"2013-09-22";"2016-05-31";13;1054799.0;1108357.0;53558.0;50134.0
+450;"RRRF";"P-13-09-05-74";2;"QXB";47000.0;"2013-10-01";"2013-10-31";6;0.0;0.0;0.0;0.0
+451;"Spatial Planning Support to Palestinian Communities in Area C, West Bank, occupied Palestinian territory";"P016";2;"FPP";1003518.0;"2013-08-02";"2016-10-31";13;1223322.0;1107365.0;-115957.0;84656.0
+452;"Participatory review of Egyptian planning and related urban development legislation to support sustainable urban development- Egypt";"C365";2;"QXB";325985.0;"2013-04-01";"2016-12-31";13;296314.0;308458.0;12143.0;26938.0
+453;"Intergrated Humanitatian Shelter Assistance to IDPs in Tirah Valley, Pakistan";"D384";2;"QXB";399999.0;"2013-05-15";"2016-05-31";5;391469.0;399999.0;8530.0;25610.0
+454;"Addressing the Land Information Requirements of the Urban Poor - Phase 2: Scaling Up the Capacity Development Initiatives in the Use and Application of the Social Tenure Domain Model (STDM)";"G072";2;"FCL";225000.0;"2013-03-24";"2016-05-31";14;225000.0;225000.0;0.0;20455.0
+455;"Strengthening capacity of policymakers in South-East Asit to promote policies and developing plans for improved wastewater treatment and reuse in urban and peri-urban areas";"P-13-09-16-89";2;"ROA";348000.0;"2013-01-01";"2015-12-31";6;0.0;0.0;0.0;0.0
+456;"Lake Tanganyika Water sanitation Environmental Programme - Gatumba Water and sanitation Project";"P-13-09-17-96";2;"FNO";50000.0;"2013-10-15";"2014-12-31";11;0.0;0.0;0.0;0.0
+457;"Urban Youth Empowerment and Opportunity Creation Project";"H160";2;"FOD";130000.0;"2014-01-01";"2016-05-31";1;129975.0;130000.0;25.0;0.0
+458;"Repair of the Yongquan and MUMA Primary Schools, Sichuan Province, China";"D386";2;"QXB";98687.0;"2013-09-01";"2014-06-30";5;98620.0;95303.0;-3317.0;6881.0
+459;"Global Shelter and Settlements Project Review";"K093";2;"FOD";75000.0;"2012-09-01";"2013-09-30";12;64276.0;68879.0;4603.0;4508.0
+460;"Support and Assistance of the enhancement of the Major’s Office of Medellin in the Municipal Development Plan of ‘Construyamos unidos un hogar para la vida' (Let's Build a Home for Life.)";"F117";2;"FSP";339000.0;"2013-09-20";"2016-12-31";7;337929.0;0.0;-337929.0;46479.0
+461;"Human Security through Inclusive Socio-economic Development in Upper Egypt";"C359";2;"QXB";649330.0;"2013-06-01";"2017-11-30";13;628794.0;649330.0;20536.0;33755.0
+462;"Mainstreaming energy and resource efficiency measures into building codes, building policies and building practices in Senegal, Nigeria and Cameroon (Umbrella)";"W069";2;"FOD";405000.0;"2013-10-01";"2017-12-31";11;309607.0;384986.0;75379.0;28146.0
+463;"Support and Assistance of the enhancement of the Major’s Office of Medellin in the Municipal Development Plan of ‘Construyamos unidos un hogar para la vida' (Let's Build a Home for Life.)";"F123";2;"QXB";600000.0;"2013-09-20";"2016-12-31";7;161705.0;1099965.0;938260.0;35815.0
+464;"Achieving Sustainable Urban Development in the Philippines";"D373";2;"FSP";1506964.0;"2013-01-01";"2016-06-30";5;1739930.0;683350.0;-1056580.0;190749.0
+465;"Emergency shelter and coordination support in Syrian cities for the most vulnerable IDPs'";"C366";2;"QXB";831578.0;"2013-10-01";"2014-06-30";13;974525.0;1036964.0;62439.0;63754.0
+466;"Cities Prosperity Initiative (2013-2015) - Municipal of Cajeme";"H157";2;"FOD";50000.0;"2014-04-22";"2016-12-31";15;39977.0;25000.0;-14977.0;4585.0
+467;"From Camps Transformation to Urban Revitalization (CATUR project) - Port-au-Prince, Haiti";"F128";2;"QXB";1500141.0;"2014-05-15";"2017-12-31";7;897073.0;1150908.0;253835.0;73771.0
+468;"Urban Renovation and Human Settlements within railroad areas in El Salvador: Phase I";"F126";2;"QXB";336340.0;"2013-11-01";"2016-05-31";7;336279.0;336340.0;61.0;22000.0
+469;"Rehabilitation and Reconstruction Response Facility Phase VII";"D368";2;"FJP";47300.0;"2013-04-01";"2014-03-31";5;47299.0;47300.0;1.0;5442.0
+470;"PakistanTraining";"P-13-09-30-79";2;"QXB";100000.0;"2013-09-30";"2014-07-31";6;0.0;0.0;0.0;0.0
+471;"China Sustainable City";"P-13-09-30-45";2;"QXT";32111.0;"2013-08-30";"2013-10-04";6;0.0;0.0;0.0;0.0
+472;"urban mobility";"P-13-09-30-81";2;"QXB";25000.0;"2013-09-19";"2014-05-10";6;0.0;0.0;0.0;0.0
+473;"urban mobility";"P-13-09-30-74";2;"QXB";120000.0;"2013-09-19";"2014-09-26";6;0.0;0.0;0.0;0.0
+474;"sustainable development";"P-13-09-30-90";2;"FPP";10000.0;"2013-08-29";"2013-10-31";6;0.0;0.0;0.0;0.0
+475;"Government of Norway funded Junior Professional Officer - Helene Opsal";"P-13-10-02-54";2;"FJO";277265.0;"2013-06-01";"2015-12-31";6;0.0;0.0;0.0;0.0
+476;"Government of Norway funded Junior Professional Officer - Helene Opsal";"B123";2;"FJO";277265.0;"2013-06-01";"2017-08-18";10;331527.0;417513.0;85987.0;35521.0
+477;"Facilitating Private Sector Investment in Durable Solutions in Iraq";"N056";2;"QXB";150000.0;"2013-10-07";"2016-05-31";13;147962.0;150000.0;2038.0;8375.0
+478;"Integrated Humanitarian Shelter Assistance to IDPs and Returnees in Kurram Agency, Pakistan (Phase II)";"D388";2;"QXB";270000.0;"2013-10-01";"2014-06-30";5;269482.0;270000.0;518.0;17630.0
+479;"Lifesaving WASH Services to IDPs and Returnees in Tirah Valley, Pakistan (Phase II)";"D387";2;"QXB";450001.0;"2013-09-11";"2016-05-31";5;438217.0;450001.0;11784.0;28668.0
+480;"Programme de securisation fonciere integree pour la reintegration et la relance communautaire a l'est de la RDC";"P-13-10-10-26";2;"QXB";467290.0;"2013-01-10";"2014-12-31";6;0.0;0.0;0.0;0.0
+481;"Housing the Poor in African Cities - Quick Guides for Policy Makers (Marketing & Dissemination)";"P-13-10-22-3";2;"FOD";146500.0;"2012-11-01";"2013-12-31";6;0.0;0.0;0.0;0.0
+482;"Housing the Poor in African Cities - Quick Guides for Policy Makers (Marketing & Dissemination)";"P-13-10-22-57";2;"FOD";126500.0;"2012-11-01";"2013-12-31";6;0.0;0.0;0.0;0.0
+483;"Support to the establishment of a land disputes prevention and resolution system in Liberia - Phase 2";"C369";2;"QXB";2000000.0;"2013-10-01";"2016-12-31";4;1924305.0;2000000.0;75695.0;117057.0
+484;"Local Integration of IDP Families in Herat, Afghanistan";"D396";2;"FUS";149591.0;"2013-09-30";"2014-06-30";5;114898.0;149591.0;34693.0;7517.0
+485;"CANAAN URBAN DEVELOPMENT INITIATIVE - IN THE NORTHERN EXPANSION ZONE OF PORT AU PRINCE";"P-13-10-28-24";2;"QXB";3155376.0;"2013-12-01";"2014-12-01";6;0.0;0.0;0.0;0.0
+486;"Dissemination of the Quick Guides for Housing the Poor in Africa";"L014";2;"FCL";125800.0;"2013-01-01";"2016-05-31";15;121085.0;125800.0;4715.0;0.0
+487;"Scaling up and Deepening of Planning Suppo0rt to Palestinian Communties in East Jerusalem";"P018";2;"FPP";1722843.0;"2013-01-01";"2016-12-31";13;1635833.0;813646.0;-822187.0;70018.0
+488;"Global Land Tool Network (GLTN) Phase 2 (2012-2017) - NL / IFAD Contribution";"G073";2;"FOD";20137500.0;"2012-01-01";"2018-12-31";14;20784209.0;21010610.0;226401.0;878884.0
+489;"Project ID 00087568, Improving Living Conditions in Palestinian Gatherings Host Communities";"C370";2;"TIP";1304028.0;"2013-10-11";"2016-05-31";13;1292526.0;241500.0;-1051026.0;84553.0
+490;"Community Engagement Support to Public-Private Partnership in New Ger Area Redevelopment in Ulaanbaatar City";"D394";2;"QXB";175000.0;"2013-12-01";"2015-06-30";5;171756.0;173086.0;1331.0;12659.0
+491;"Land Natural Resources Tenure Security Learning Initiative for East and Southern Africa - Phase 2 - IFAD Contribution to GLTN Phase 2 Programme";"G074";2;"FOD";1425000.0;"2013-10-30";"2018-06-30";14;1456355.0;1645000.0;188645.0;102406.0
+492;"Myanmar Climate Change Alliance (MCCA)";"D391";2;"QXB";5165562.0;"2013-12-19";"2019-03-31";5;4200105.0;6081431.0;1881326.0;173883.0
+493;"SHELTER NEEDS ASSESSMENT AND SHELTER OPTIONS FOR IDPs";"C371";2;"QXB";67443.0;"2013-11-27";"2016-05-31";13;48398.0;67443.0;19045.0;3166.0
+494;"Enhancing the Role of Union of Municipalities to Respond to Refugees' and Host Communities' Needs: WASH Infrastructure Projects";"C378";2;"QXB";1461326.0;"2013-09-01";"2016-05-31";13;1691676.0;1461326.0;-230350.0;110670.0
+495;"Rehabilitation of Dar Al Consul into Residential and Civic Complex";"P017";2;"FPP";3886000.0;"2014-01-01";"2017-12-31";13;2858700.0;3598055.0;739355.0;132263.0
+496;"Guidelines for Participatory Urban Development in Ulaanbaatar City";"D393";2;"QXB";35000.0;"2013-12-16";"2014-12-31";5;34457.0;36749.0;2292.0;4078.0
+497;"Post 2015 Sustainable Transport (P-2015 ST)";"W072";2;"FGB";64516.0;"2013-10-21";"2014-06-23";11;62384.0;64516.0;2132.0;7177.0
+498;"IPSAS implementation in UN-Habitat";"P-13-11-21-20";2;"FUS";700000.0;"2013-01-01";"2013-12-31";6;0.0;0.0;0.0;0.0
+499;"IPSAS Implementation - US Funded";"A129";2;"FNE";700000.0;"2013-01-01";"2014-06-30";10;748399.0;700000.0;-48399.0;0.0
+500;"Joint Programme on Local Governance and Decentralised Service Delivery, UN-JPLG (Phase II) _SDC funding";"C367";2;"QXB";1410608.0;"2013-01-01";"2018-12-31";4;1649824.0;862751.0;-787073.0;91536.0
+501;"RRRF";"P-13-11-25-22";2;"QXB";40000.0;"2013-11-30";"2013-12-28";6;0.0;0.0;0.0;0.0
+502;"UNAIDS-UN-Habitat joint publication on HIV in Cities -";"H158";2;"FOH";54000.0;"2013-09-15";"2016-08-31";15;46254.0;54000.0;7746.0;6994.0
+503;"Post 2015 Sustainable Transport (P-2015 ST)";"P-13-11-26-77";2;"FGB";64161.0;"2013-10-21";"2014-06-23";11;0.0;0.0;0.0;0.0
+504;"Improving access to water and sanitation to support polio eradication in Gadap Town, Karachi";"D390";2;"QXB";294361.0;"2013-12-01";"2016-07-31";5;294361.0;290107.0;-4255.0;19257.0
+505;"Support to Palestinians at Risk of Displacement in Israeli Controlled Area C of the West Bank";"P019";2;"FPP";1805084.0;"2014-02-01";"2017-06-30";13;1869435.0;1735855.0;-133580.0;124593.0
+506;"Support to the Liberian Land Commission Phase II";"C372";2;"QXB";2321349.0;"2014-01-01";"2016-10-31";4;2179307.0;2193947.0;14640.0;159524.0
+507;"Support to the Sustainable Urban Development Sector in Kenya, 2012-2014 (OER 4624)";"C339_A";2;"FSE";716187.0;"2013-01-01";"2015-12-31";2;452818.0;590931.0;138114.0;45783.0
+508;"Support to the Sustainable Urban Development Sector in Kenya, 2012-2014 (ROA 4632)";"C339_B";2;"QXB";2077768.0;"2013-01-01";"2015-12-31";4;889730.0;675350.0;-214380.0;92156.0
+509;"Support to the Sustainable Urban Development Sector in Kenya, 2012-2014 (UPDB 4650)";"C339_C";2;"FSE";524800.0;"2013-01-01";"2015-12-31";4;888151.0;1021073.0;132922.0;73025.0
+510;"Mainstreaming Multi-sectoral Urban Planning Framework and Governance in Vietnam through Policy Dialogues-Phase II";"D392";2;"QXB";450000.0;"2013-12-31";"2017-12-20";5;381743.0;384200.0;2457.0;24974.0
+511;"Enhancement of Technical Cooperation towards Environmentally Sustainable Development in Asia and the Pacific Phase V (2013-2016)";"D369";2;"QXB";349440.0;"2013-04-01";"2020-03-31";5;232950.0;337012.0;104062.0;26799.0
+512;"Disaster Resilient City Development Strategies for four Cities in the Northern and Eastern Provinces of Sri Lanka";"P-13-12-19-47";2;"QXT";1100000.0;"2013-01-01";"2014-01-01";6;0.0;0.0;0.0;0.0
+513;"Supporting the implementation of the Urban Burkina Faso Country Programme";"C374";2;"QXB";977500.0;"2014-01-01";"2017-12-31";4;1343253.0;1373034.0;29781.0;74675.0
+514;"Supporting the Implementation of the National Programme for Urban Development and Economic Empowerment Cities - Cape Verde";"C373";2;"QXB";200000.0;"2013-11-01";"2016-12-31";4;64486.0;63541.0;-946.0;7419.0
+515;"Rapid Planning - Sustainable Infrastructure, Environmental and Resource Management for Highly Dynamic Metropolises";"J099";2;"FGR";3237387.0;"2014-04-01";"2019-06-30";8;1568066.0;486694.0;-1081372.0;99783.0
+516;"Water for Life Campaign Project for Asia and the Pacific Region (Phase I)";"D389";2;"QXB";215000.0;"2013-11-01";"2019-11-30";5;156912.0;215000.0;58088.0;4186.0
+517;"Integrative neighbourhood development in refugee hosting area, Faisal, Cairo";"C375";2;"QXB";54118.0;"2014-01-22";"2014-12-31";13;54123.0;54118.0;-5.0;3541.0
+518;"Emergency Flood Response in Khartoum for Vulnerable Communities";"C379";2;"QXB";1600000.0;"2014-04-01";"2016-10-31";13;1578229.0;1600000.0;21771.0;103244.0
+519;"Future Saudi Cities Programme";"C376";2;"QXB";25000000.0;"2014-01-01";"2019-12-16";13;22512593.0;25066667.0;2554074.0;1552907.0
+520;"Recovery Planning Support for Local Government Units (LGUs) in the Philippines in the Wake of Typhoon Yolanda (Haiyan) - Phase 1";"D403";2;"QXB";250113.0;"2014-02-01";"2014-09-30";5;199978.0;250113.0;50135.0;13083.0
+521;"Extension of Water and Environmental Sanitation Improvement in Karachi";"W074";2;"FWS";89045.0;"2014-01-01";"2016-05-31";11;87014.0;86901.0;-112.0;5692.0
+522;"Build My School Better";"W073";2;"FWS";160955.0;"2014-01-01";"2016-05-31";11;111951.0;111431.0;-521.0;7324.0
+523;"Support My School Campaign in South Asian Countries & Sanitation and Waste Water Management System for Bhutan";"W075";2;"FWS";500000.0;"2014-01-01";"2017-04-30";11;495625.0;484705.0;-10920.0;31775.0
+524;"Projet d'Apui a la Resilience Urbaine/Goz Beida PARURBA/GB";"C388";2;"TIP";2115000.0;"2014-02-01";"2016-12-31";4;268200.0;0.0;-268200.0;17546.0
+525;"Water supply, composting and disaster proofing for selected villages in 5 districts in 3 southern provinces of Salavanh, Sekong and Attapeu";"W077";2;"FWS";1480000.0;"2014-01-01";"2018-12-31";11;924788.0;999995.0;75208.0;41528.0
+526;"Water, Sanitation and Hygiene in Disaster Prone Communities in Northern Ghana";"W079";2;"FWS";8760102.0;"2014-06-01";"2018-12-31";11;7184034.0;4775466.0;-2408569.0;249971.0
+527;"Kipunguni B Water Supply and Sanitation Project";"P-14-02-24-12";2;"FWS";93800.0;"2012-11-05";"2013-02-05";11;0.0;0.0;0.0;0.0
+528;"Preliminary studies for Phase I Metropolitan Bicycle Master Plan";"W076";2;"FOD";89001.0;"2013-10-01";"2016-05-31";11;84381.0;82202.0;-2179.0;9707.0
+529;"Rehabilitation of Community Infrastructure, Imrpovement of Livelihoods and Empwerment of Women in the Northern and Eastern Provinces of Sri Lanka";"D400";2;"QXB";3638294.0;"2014-04-01";"2016-09-30";5;3587452.0;3638187.0;50735.0;234743.0
+530;"Shelter and Infrastructure Support for Non-Camp Refugees";"N057";2;"QXB";2500155.0;"2014-02-01";"2014-12-31";13;2291392.0;2449292.0;157899.0;109114.0
+531;"Safer Cities Programme in Suleimaniyah, Kurdistan Region";"N060";2;"QXB";329537.0;"2014-09-09";"2016-07-31";13;154073.0;154336.0;263.0;10080.0
+532;"Strengthening Urban and Regional Planning in KRG - Iraq";"N061";2;"QXB";944000.0;"2014-09-09";"2016-06-30";13;585743.0;654113.0;68370.0;38318.0
+533;"Rehabilitation and Reconstruction Response Facility Phase VIII";"D395";2;"FJP";47300.0;"2014-01-01";"2014-12-31";5;47054.0;47300.0;246.0;5413.0
+534;"Cities Prosperity Initiative (2013-2015) - CORPORATACION ANDINA DE FOMENTO - VENEZUELA";"H159";2;"FOD";75000.0;"2013-04-01";"2016-12-31";15;238726.0;240000.0;1275.0;27425.0
+535;"Post-Yolanda Support for Safer Homes and Settlements. A shelter and community recovery programme for better lives in the Visayas, Republic of the Philippines";"D397";2;"FPP";2500000.0;"2014-04-01";"2015-06-30";5;2465621.0;2500000.0;34379.0;161091.0
+536;"Shelter Provision, Reintegration and Improved Livelihoods for Returnees and IDPs in 4 Towns in Somaliland";"C380";2;"QXB";2300000.0;"2014-04-01";"2016-12-31";4;2452734.0;2300000.0;-152734.0;143438.0
+537;"Humanitarian WASH Response for Returning Households after Displacement in FATA, Pakistan (CERF III)";"D407";2;"QXB";299999.0;"2014-04-01";"2016-09-30";5;260575.0;299999.0;39424.0;17047.0
+538;"Enhancing the Role of Union of Municipalities to Respond to Refugees' and Host Communities' Needs in South Lebanon";"C383";2;"QXB";308481.0;"2014-01-01";"2016-10-31";13;751572.0;438773.0;-312799.0;49168.0
+539;"Enhancing the Role of Union of Municipalities to Respond to Refugees' and Host Communities' Needs in Beirut/Mt Lebanon";"C382";2;"QXB";348178.0;"2014-01-01";"2016-10-31";13;381444.0;300000.0;-81444.0;24954.0
+540;"Rapid Shelter Recovery Assistance to Communities Most Severely Hit by Floods Caused by Cyclones Wutip and Nari in Cambodia";"D401";2;"QXB";324785.0;"2014-03-01";"2014-12-31";5;324142.0;322331.0;-1811.0;21206.0
+541;"Vulnerablitity Assesment for delivering Policy Advice on Repeated Disasters in Baluchistan, Pakistan";"D405";2;"QXB";50553.0;"2014-04-15";"2016-07-31";5;50553.0;53818.0;3266.0;3307.0
+542;"Establishment of the First Integrated Resource Recovery Center in Pakistan";"D404";2;"QXB";268598.0;"2014-04-01";"2016-05-31";5;259049.0;259236.0;187.0;16712.0
+543;"Trust Fund for Integrated Urban Basic Services for Human Settlements";"TF005";2;"FNE";1287337.0;"2017-05-23";"2018-07-31";11;0.0;0.0;0.0;0.0
+544;"Immediate Shelter Assistance addressing the lifesaving needs of most vulnerable Returnees in area of return FATA, Pakistan (CERF III)";"D402";2;"QXB";922290.0;"2014-04-01";"2014-12-31";5;922289.0;985488.0;63199.0;60337.0
+545;"Building Flood Risk Reduction Capacity in Lusaka City, Zambia";"C386";1;"TIP";365000.0;"2014-01-01";"2016-12-31";4;356565.0;190749.0;-165816.0;16939.0
+546;"Joint Programme on Local Governance and Decentralised Service Delivery, UN-JPLG (Phase II) _NORWAY";"C385";1;"QXB";987285.0;"2013-01-01";"2017-12-31";4;1256781.0;930461.0;-326320.0;82550.0
+547;"Evaluation of BASF Stiftung-UN-Habitat programme contribution towards sustainable development";"W078";1;"FWS";115000.0;"2014-05-12";"2016-10-31";11;109834.0;-5156.0;-114990.0;7638.0
+548;"Core Evaluation Activities for the 2014-2015 Workplan";"T080";1;"FNE";258646.0;"2014-01-01";"2016-12-31";17;186728.0;120247.0;-66481.0;0.0
+549;"SUD-Net (Networking and Public Space Projects)";"P-14-05-05-69";2;"FOD";530201.0;"2012-01-01";"2014-12-31";2;0.0;0.0;0.0;0.0
+550;"SUD-Net (Networking and Public Space Projects)";"J090_B";1;"FOD";530201.0;"2012-01-01";"2014-12-31";2;672380.0;2350324.0;1677944.0;93524.0
+551;"Mainstreaming biodiversity conservation in tourism sector development in Jordan";"N059";1;"QXB";52000.0;"2014-08-03";"2016-05-31";13;46422.0;0.0;-46422.0;2987.0
+552;"Strengthening capacities of Member States in the Asian and Pacific Region to mainstream climate change concerns into national urban-related policies (Development Account Project UN-Habitat with UNESCAP and UNEP)";"9171";1;"ROA";730000.0;"2014-06-01";"2018-06-30";5;45709.0;24309890.0;24264182.0;0.0
+553;"Eco-civilization Indicator System for China";"D414";1;"QXB";50000.0;"2014-05-01";"2015-12-31";5;43615.0;45000.0;1385.0;3965.0
+554;"Support to Profiling Urban Risk and Resilience";"D399";1;"QXB";20000.0;"2014-01-01";"2014-04-30";5;20009.0;20000.0;-9.0;1309.0
+555;"Strengthening Resiliency and Safety in Urban Informal Settlements in 3 Metro Manila Cities and their partner Local Government Units in the Visayas – Joint Project with UNICEF";"D406";1;"QXB";335000.0;"2014-05-01";"2015-02-28";5;328463.0;0.0;-328463.0;21530.0
+556;"Transformation of Urban Management in Myanmar - Capacity Building for Urban Management";"D410";1;"QXB";931172.0;"2014-10-01";"2017-08-31";5;911401.0;926796.0;15395.0;46659.0
+557;"Projet Développement Urbaine et Amélioration de l'Habitat III - DURAH III.";"C405";1;"TIP";408205.0;"2014-06-01";"2017-12-31";4;286529.0;0.0;-286529.0;18745.0
+558;"Safer Coastal and Urban Communities through Inclusive Disaster Risk Reduction in Myanmar (DIPECHO IX)";"D412";1;"QXB";485731.0;"2014-05-01";"2016-03-31";5;482525.0;481371.0;-1154.0;31764.0
+559;"State of Afghan Cities Programme";"D409";1;"QXB";329875.0;"2014-06-30";"2015-09-30";5;330000.0;329875.0;-125.0;21206.0
+560;"Implementation of Umoja (UN ERP) Project";"A140";1;"FNE";788500.0;"2014-06-01";"2015-06-30";10;149905.0;0.0;-149905.0;0.0
+561;"Strengthening Partnerships for Habitat III: Focus on the Asia Pacific Region";"A130";1;"FSE";439850.0;"2014-06-01";"2017-12-31";2;595925.0;197209.0;-398716.0;39349.0
+562;"Support to Low Carbon Climate Resilient Development for Poverty Reduction in Kenya Joint Programme- Catalysing Low Carbon Transport in Kenya";"P-14-06-24-32";1;"FWS";90059.0;"2014-04-01";"2016-12-31";11;70380.0;0.0;-70380.0;3230.0
+563;"Sweden Funded JPO- Pontus Westerberg";"P-14-07-08-38";2;"FJO";300877.0;"2012-05-15";"2015-05-15";6;0.0;0.0;0.0;0.0
+564;"Participatory Slum Upgrading Programme in ACP Countries ( Djibouti Funding)";"P-15-06-16-85";2;"QXB";120000.0;"2012-04-23";"2015-12-31";16;0.0;0.0;0.0;0.0
+565;"Enhancing the Role of Union of Municipalities to Respond to Refugees' and Host Communities' Needs";"P-15-11-18-67";2;"QXB";3559822.0;"2013-09-01";"2014-02-28";13;0.0;0.0;0.0;0.0
+566;"Promoting Integrated and Sustainable Urban Development through Networks ) Humble Bundle_Mojang AB Funding";"P-16-01-18-4";2;"FOD";70775.0;"2012-01-01";"2018-12-31";6;0.0;0.0;0.0;0.0
